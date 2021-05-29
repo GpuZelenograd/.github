@@ -1,4 +1,4 @@
-# By GpuZelenograd
+# By [GpuZelenograd](https://gpuzelenograd.github.io/)
 ## Толщины термопрокладок (mm)
 
 * Palit Jetstream 1080ti
