@@ -5,3 +5,6 @@
   * 2.5: Back
   * 1.5: Gddr5x, Memory mosfet, Meomry inductor
   * 1.0: Main mosfet, main inductor
+* EVGA 1080 FTW
+  * 2.0: Back
+  * 1.5: Gddr5x, mosfet
