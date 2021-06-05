@@ -13,3 +13,8 @@
   * 2.0: 2 ICs near memory
   * 1.5: power mosfets and drivers
   * 1.0: Gddr5x, 3ICs near power
+* Sapphire Nitro 480+ 480
+  * 2.5: Back
+  * 1.25: GDDR5
+  * 0.8(1): power mosfets
+  * 0.5: Back undeer power
