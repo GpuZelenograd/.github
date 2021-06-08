@@ -18,3 +18,5 @@
   * 1.25: GDDR5
   * 0.8(1): power mosfets
   * 0.5: Back undeer power
+* Asus dual 580
+  * 1.0(use 1.5) - power mosfets
