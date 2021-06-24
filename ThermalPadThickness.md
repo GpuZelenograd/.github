@@ -20,6 +20,9 @@
   * 0.5: Back undeer power
 * Asus dual 580
   * 1.0(use 1.5) - power mosfets
+* Asus dual 2080
+  * 1.5: power, memory
+  * 3.0: back
 * Gigabyte 1080ti Gaming (no back)
   * 0.5: memory, gpu inductor, gpu power 12v caps
   * 2.0: gpu power mosfet
