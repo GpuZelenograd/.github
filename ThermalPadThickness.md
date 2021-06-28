@@ -23,6 +23,8 @@
 * Asus dual 2080
   * 1.5: power, memory
   * 3.0: back
+* Asus turbo (1070ti)
+  * 1.5: power, memory
 * Gigabyte 1080ti Gaming (no back)
   * 0.5: memory, gpu inductor, gpu power 12v caps
   * 2.0: gpu power mosfet
