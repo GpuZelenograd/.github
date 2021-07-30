@@ -16,7 +16,7 @@
 * MSI Gaming X 1080ti
   * 2.5: Back with plastic keeped
   * 1.5: main power drivers; mem power; 1 IC between memory and video outputs
-  * 1.0: Gddr5x, power drivers, 2ICs near power
+  * 1.0: Gddr5x, main power mosfet, 2ICs near power
 * Sapphire Nitro 480+ 480
   * 2.5: Back
   * 1.25: GDDR5
