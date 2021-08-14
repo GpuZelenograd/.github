@@ -34,3 +34,6 @@
   * 2.0: gpu power mosfet
   * 3.0: memory power 12v caps
   * 4.0: memory power mosfet
+* Zotac p102-100
+  * 1.5: memory, memory power
+  * 1.0: gpu power mosfet
