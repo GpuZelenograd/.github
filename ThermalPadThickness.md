@@ -17,10 +17,15 @@
   * 2.5: Back with plastic keeped
   * 1.5: main power drivers; mem power; 1 IC between memory and video outputs
   * 1.0: Gddr5x, main power mosfet, 2ICs near power
-* Sapphire Nitro+ 480
+* Sapphire Nitro 480
   * 2.5: Back
   * 1.25: GDDR5
   * 0.8(1): power mosfets
+  * 0.5: Back under power
+* Sapphire Pulse 570
+  * 2.5: Back
+  * 1.5: GDDR5
+  * 1.0: power mosfets
   * 0.5: Back under power
 * Asus dual 580
   * 1.0(use 1.5) - power mosfets
@@ -40,4 +45,7 @@
 * Gigabyte p106-100
   * 1.5: memory
   * 1.0: gpu power mosfet
+* Galax P104-100
+  * 0.8(1): power mosfets
+  * 1.5: memory
 
