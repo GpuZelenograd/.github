@@ -28,10 +28,10 @@
   * 1.0: power mosfets
   * 0.5: Back under power
 * Sapphire Nitro+ 570/580 (E366)
-  * 2.5: Back
+  * 2.5: Back with plastic
   * 0.7(1): GDDR5
   * 0.7(1): power mosfets
-  * 0.4: Back under power
+  * 0.5: Back under power
 * Asus dual 580
   * 1.0(use 1.5) - power mosfets
 * Asus dual 2080
