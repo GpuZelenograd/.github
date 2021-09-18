@@ -19,7 +19,7 @@
   * 1.0: Gddr5x, main power mosfet, 2ICs near power
 * MSI Gaming X 580
   * 2.8(3): Back with plastic keeped
-  * 1.5: main power drivers; mem power; 1 IC between memory and video outputs
+  * 1.5: main power drivers; mem power; main PWM
   * 1.0: Gddr5, main power mosfet
 * Sapphire Nitro 480
   * 2.5: Back
