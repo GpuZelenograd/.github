@@ -8,6 +8,12 @@
 * EVGA 1080 FTW
   * 2.0: Back
   * 1.5: Gddr5x, mosfet
+* MSI Duke 1080ti
+  * 3.0: Main power inductors
+  * 2.5: Back with plastic keeped
+  * 2.0: Main power out capacitors
+  * 1.5: main power drivers; 2 PWMs; 2 power ICs
+  * 1.0: Gddr5x, main power mosfet, memory power mosfet
 * MSI Gaming 1080
   * 2.5: Back with plastic keeped
   * 2.0: 2 ICs near memory
