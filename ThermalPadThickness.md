@@ -50,7 +50,7 @@
 * Asus turbo (1070ti)
   * 1.5: power, memory
 * Gigabyte 1080 Aorus X
-  * 0.5: gpu inductor (check)
+  * 0.4(0.5): gpu inductor
   * 1.0: back out gpu power capacitors
   * 1.5: memory, out gpu power capacitors
   * 2.0: back GPU "X", power mosfets
@@ -73,5 +73,3 @@
   * 1.0: memory, inductor, mosfet
   * 2.0: power 12v caps
   * 2.5: back
-
-
