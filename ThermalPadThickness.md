@@ -55,7 +55,7 @@
   * 1.5: memory, out gpu power capacitors
   * 2.0: back GPU "X", power mosfets
   * 3.0: back memory, back gpu power
-* Gigabyte 1080ti Gaming (no back)
+* Gigabyte 1080ti Gaming (no back, don't tighten the screws too much - otherwise pcb deformates and memory cooling suffers)
   * 0.5: memory, gpu inductor, gpu power 12v caps
   * 2.0: gpu power mosfet
   * 3.0: memory power 12v caps
