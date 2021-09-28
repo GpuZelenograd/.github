@@ -73,3 +73,8 @@
   * 1.0: memory, inductor, mosfet
   * 2.0: power 12v caps
   * 2.5: back
+* Ventus ga102-300
+  * 1.5: DrMos, 2x front PWMs
+  * 2.3: memory
+  * 3.0: inductor, alu capacitors
+  * 3.5: DrMos back
