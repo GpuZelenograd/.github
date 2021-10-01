@@ -74,8 +74,7 @@
   * 2.0: power 12v caps
   * 2.5: back
 * Ventus ga102-300
-  * 1.5: DrMos, 2x front PWMs
-  * 2.0: Isolated DrMos, Pex PWM
+  * 1.5: DrMos, 2x front PWMs, Isolated DrMos, Pex PWM
   * 2.3(2 front, 3back): memory
   * 3.0: inductor, alu capacitors
   * 3.5: DrMos back
