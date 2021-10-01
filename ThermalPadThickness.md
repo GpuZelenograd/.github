@@ -75,6 +75,13 @@
   * 2.5: back
 * Ventus ga102-300
   * 1.5: DrMos, 2x front PWMs
-  * 2.3: memory
+  * 2.0: Isolated DrMos, Pex PWM
+  * 2.3(2 front, 3back): memory
   * 3.0: inductor, alu capacitors
   * 3.5: DrMos back
+  * ?:sides thermal connection 
+* Suprim X ga102-300
+  * ?:all front
+  * 3.3: DrMos back
+  * 2.0:sides thermal connection 
+  
