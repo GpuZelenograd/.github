@@ -78,7 +78,7 @@
   * 2.3(2 front, 3back): memory
   * 3.0: inductor, alu capacitors
   * 3.5: DrMos back
-  * ?:sides thermal connection 
+  * 1.5(2): sides thermal connection 
 * Suprim X ga102-300
   * ?:all front
   * 3.3: DrMos back
