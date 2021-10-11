@@ -74,7 +74,7 @@
   * 2.0: power 12v caps
   * 2.5: back
 * Strix GA102-200
-  * 0.5: 2x power out capacitors
+  * 0.5:back 2x power out capacitors
   * 1.5:mosfets
   * 2.0:memory
   * 2.6(2.5):inductors
