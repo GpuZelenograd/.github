@@ -92,6 +92,6 @@
 * Inno3d ichill X4 ga102-300
   * 0.7(1):mem front
   * 1.0:mem back
-  * 1.7(2): DrMos front
-  * 2:Inductor Front
+  * 1.7(2): DrMos front, Back Isolated DrMos
+  * 2:Inductor Front, 2x isolated DrMos
   * 2.7(3): DrMos back
