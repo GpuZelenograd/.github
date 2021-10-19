@@ -89,4 +89,9 @@
   * ?:all front
   * 3.3: DrMos back
   * 2.0:sides thermal connection 
-  
+* Inno3d ichill X4 ga102-300
+  * 0.7(1):mem front
+  * 1.0:mem back
+  * 1.7(2): DrMos front
+  * 2:Inductor Front
+  * 2.7(3): DrMos back
