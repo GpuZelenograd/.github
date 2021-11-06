@@ -89,9 +89,11 @@
   * 3.5: DrMos back
   * 1.5(2): sides thermal connection
 * Suprim X ga102-300
-  * ?:all front
-  * 3.3: DrMos back
-  * 2.0:sides thermal connection 
+  * 1.5:front flat capacitors (2 lanes)
+  * 2.0:sides thermal connection, front inductors, Front DrMos (2 lanes), 5 big front ICs, 1 small front IC
+  * 2.5:front memory, front PCIe power
+  * 3.0:back memory
+  * 3.3:back DrMos
 * Inno3d ichill X4 ga102-300
   * 0.7(1):mem front
   * 1.0:mem back
