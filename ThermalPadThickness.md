@@ -30,12 +30,11 @@
   * 2.8(3): Back with plastic keeped
   * 1.5: main power drivers; mem-related power; main PWM
   * 1.0: Gddr5, main power mosfet
-* Sapphire Nitro 480 (E353?)
+* Sapphire Nitro+ 480 (E347)
   * 2.5: Back
   * 1.25: GDDR5
   * 0.8(1): power mosfets
-  * 0.5: Back under power
-* Sapphire Pulse 570 (E353?)
+* Sapphire Pulse 570 (E353)
   * 2.5: Back
   * 1.5: GDDR5
   * 1.0: power mosfets
