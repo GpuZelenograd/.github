@@ -18,10 +18,10 @@
   * 1.5: main power drivers; 2 PWMs; 2 power ICs
   * 1.0: Gddr5x, main power mosfet, memory power mosfet
 * MSI Gaming 1080, 1070ti
-  * 2.5: Back with plastic keeped
+  * 2.5: Back with plastic keeped, inductors line support
   * 2.0: 2 ICs near memory
   * 1.5: power mosfets and drivers
-  * 1.0: Gddr5x, 3ICs near power
+  * 1.0: Gddr5x, 3ICs near power, round output capacitors line support
 * MSI Gaming X 1080ti
   * 2.5: Back with plastic keeped
   * 1.5: main power drivers; mem power; 1 IC between memory and video outputs
