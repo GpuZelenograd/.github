@@ -36,7 +36,7 @@
   * 0.8(1): power mosfets
 * Sapphire Pulse 570 (E353)
   * 2.5: Back
-  * 1.5: GDDR5
+  * 1.3(1.5): GDDR5
   * 1.0: power mosfets
   * 0.5: Back under power
 * Sapphire Nitro+ 570/580 (E366)
