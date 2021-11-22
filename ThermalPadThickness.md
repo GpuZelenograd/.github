@@ -1,6 +1,9 @@
 # By [GpuZelenograd](https://gpuzelenograd.github.io/)
 ## Толщины термопрокладок (mm)
 
+* EVGA GeForce GTX 980 Ti SC+ GAMING ACX 2.0+
+  * 1.5 (1.2): memory, power mosfet, DrMOS
+  * 2.0: back memory, back power
 * Asus Strix 1050ti
   * 1.5: Power
   * 2.0: Back
