@@ -81,6 +81,10 @@
   * 1.0: memory, inductor, mosfet
   * 2.0: power 12v caps
   * 2.5: back
+* Vega Turbo
+  * 0.8:Inductors
+  * 1.0:GPU Mosfets
+  * 1.5:Memory Mosfet
 * Strix GA102-200
   * 0.5(1):back 2x power out capacitors
   * 1.5:mosfets
