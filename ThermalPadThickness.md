@@ -67,6 +67,7 @@
 * Gigabyte 580 Gaming
   * 0.5: memory
   * 1.5: power mosfets, inductors
+  * 2.5: back
 * Gigabyte 1080ti Gaming (no back, don't tighten the screws too much - otherwise pcb deformates and memory cooling suffers)
   * 0.5: memory, gpu inductor, gpu power 12v caps
   * 2.0: gpu power mosfet
