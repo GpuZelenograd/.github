@@ -7,6 +7,9 @@
 * Asus Strix 1050ti
   * 1.5: Power
   * 2.0: Back
+* Palit Jetstream 1070ti
+  * 2.5: Back
+  * 1.5: Gddr5, Memory mosfet, Main mosfet
 * Palit Jetstream 1080ti
   * 2.5: Back
   * 1.5: Gddr5x, Memory mosfet, Meomry inductor
