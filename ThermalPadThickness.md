@@ -120,6 +120,10 @@
   * 2.5:front memory, front PCIe power
   * 3.0:back memory
   * 3.3:back DrMos
+* Inno3d ichill ga102-200
+  * 1.0: DrMos front, mem front
+  * 2.0: Inductor Front, 2x isolated DrMos Front
+  * 2.7(3): DrMos back, mem back
 * Inno3d ichill X4 ga102-300
   * 0.7(1):mem front
   * 1.0:mem back
