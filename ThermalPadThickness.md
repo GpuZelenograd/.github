@@ -91,6 +91,9 @@
 * Gigabyte p106-100
   * 1.5: memory
   * 1.0: gpu power mosfet
+* Galax P106-100
+  * 6+1.5: memory
+  * 1.5: memory,power mosfets
 * Galax P104-100
   * 0.8(1): power mosfets
   * 1.5: memory
