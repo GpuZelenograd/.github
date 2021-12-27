@@ -58,7 +58,7 @@
   * 0.5: Back under power
 * Asus dual 580
   * 1.0(use 1.5) - power mosfets
-* Asus dual 2080
+* Asus dual 2080, Strix 2080
   * 1.5: power, memory
   * 3.0: back
 * Asus turbo (1070ti)
