@@ -81,8 +81,8 @@
   * 1.5: power mosfets, inductors
   * 2.5: back
 * Gigabyte 1080 G1 Gaming
-  * 0.5: memory, inductors
-  * 0.8: power mosfets
+  * 0.5: memory
+  * 0.8: inductors,power mosfets
   * 2.0: back power mosfets
   * 2.5: back memory, back memory power
 * Gigabyte 1080ti Gaming (no back, don't tighten the screws too much - otherwise pcb deformates and memory cooling suffers)
