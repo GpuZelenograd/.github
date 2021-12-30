@@ -67,6 +67,12 @@
   * 3.0: back
 * Asus turbo (1070ti)
   * 1.5: power, memory
+* Inno3d ichill X3 1080ti
+  * 0.8: inductor
+  * 1.0: mem front
+  * 1.5: power front
+  * 2.7(3): DrMos back, mem back
+  * 4: mem center back
 * Gigabyte 1080ti Aorus
   * 0.5: gpu inductor, memory round capacitor
   * 1.0: memory indutor 
