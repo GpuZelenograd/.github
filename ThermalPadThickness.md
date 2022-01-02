@@ -16,6 +16,10 @@
   * 2.5: Back
   * 1.5: Gddr5x, Memory mosfet, Meomry inductor
   * 1.0: Main mosfet, main inductor
+* Palit Gamerock 1080ti
+  * 2.5: Back
+  * 1.5: Gddr5x, Memory mosfet, Meomry inductor, Main DrMos, Main doubler, main power input capacitors
+  * 0.8/1.0: main inductor
 * Palit Gamerock 2080
   * 2.2(2.5): Back
   * 2.0: Gddr5x, mosfet, switchable mosfets (2 groups), 3 ICS
