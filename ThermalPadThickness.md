@@ -24,6 +24,10 @@
   * 2.2(2.5): Back
   * 2.0: Gddr5x, mosfet, switchable mosfets (2 groups), 3 ICS
   * 0.5: input capacitors, main inductor
+* Palit Dual 2080
+  * 1.0: inductors
+  * 2.0: memory, main DrMos, memory mosfet
+  * 3.0: front power balance
 * EVGA 1080 FTW
   * 2.0: Back
   * 1.5: Gddr5x, mosfet
