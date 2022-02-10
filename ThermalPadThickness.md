@@ -139,7 +139,7 @@
   * 1.5: DrMos, 2x front PWMs, Isolated DrMos, Pex PWM
   * 2.3(2 front, 3back): memory
   * 3.0: inductor, alu capacitors
-  * 3.5: DrMos back
+  * 3.5(4): DrMos back
   * 1.5(2): sides thermal connection
 * Suprim X ga102-300
   * 1.5:front flat capacitors (2 lanes)
