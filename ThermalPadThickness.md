@@ -73,7 +73,7 @@
 * Asus dual 2080, Strix 2080
   * 1.5: power, memory
   * 3.0: back
-* Asus turbo (1070ti)
+* Asus turbo (1070ti, 1080)
   * 1.5: power, memory
 * Inno3d ichill X3 1080ti
   * 0.8: inductor
