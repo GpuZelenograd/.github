@@ -81,6 +81,10 @@
   * 1.5: power front
   * 2.7(3): DrMos back, mem back, mem pwm front
   * 4: mem center back
+* Gigabyte 2070 Aorus
+  * 1.0: memory, memory mosfets, cpu mosfets, memory indutor, gpu indutor, gpu out capacitors
+  * 2.0: gpu input capacitors
+  * 3.0: back
 * Gigabyte 1080ti Aorus
   * 0.5: gpu inductor, memory round capacitor
   * 1.0: memory indutor 
