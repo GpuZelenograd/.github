@@ -165,3 +165,6 @@
 * Gainward Phoenix ga104
   * 0.7(1):mem front
   * 1.0:drmos group, 5 isolated ICs, long inductors group, 2 small inductor groups.
+* Aorus ga104-12GB
+  * 1.0: mem, mosfet, inductor
+  * 3.0: back
