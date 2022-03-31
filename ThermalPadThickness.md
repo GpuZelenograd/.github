@@ -28,6 +28,9 @@
   * 1.0: inductors
   * 2.0: memory, main DrMos, memory mosfet
   * 3.0: front power balance
+* Palit Dual 1080
+  * 1.2(1.5): memory
+  * 2.0: main DrMos, memory mosfet
 * EVGA 1080 FTW
   * 2.0: Back
   * 1.5: Gddr5x, mosfet
