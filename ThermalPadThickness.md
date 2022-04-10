@@ -143,7 +143,7 @@
   * 1.5:Memory Mosfet
 * Strix GA102-200
   * 0.5(1):back 2x power out capacitors
-  * 1.5:mosfets
+  * 1.5:mosfets (2 lanes)
   * 2.0:memory
   * 2.6(2.5):inductors
   * 2.5(3):back memory, back mosfet
