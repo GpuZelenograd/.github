@@ -143,8 +143,8 @@
   * 1.5:Memory Mosfet
 * Palit Gaming Pro OC GA102-200
   * 1.0:front memory, 2groups inductors, isolated inductor, 2groups power
-  * 1.5:small, front isolated DrMos
-  * 2.0:small, front PEXVDD
+  * 1.5:small front isolated DrMos
+  * 2.0:small front PEXVDD
   * 2.0:back memory, 2groups power back
 * Strix GA102-200
   * 0.5(1):back 2x power out capacitors
