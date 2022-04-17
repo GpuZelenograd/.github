@@ -6,6 +6,10 @@
 * EVGA GeForce GTX 980 Ti SC+ GAMING ACX 2.0+
   * 1.5 (1.2): memory, power mosfet, DrMOS
   * 2.0: back memory, back power
+* Gigabyte 980Ti G1 GAMING
+  * 1.0: power mosfet
+  * 1.5: memory
+  * 3.0: back power, back memory, back memory power
 * Asus Strix 1050ti
   * 1.5: Power
   * 2.0: Back
