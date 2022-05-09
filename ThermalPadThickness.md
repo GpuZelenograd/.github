@@ -77,6 +77,10 @@
   * 0.5: Back under power
 * Asus dual 580
   * 1.0(use 1.5) - power mosfets
+* Asus Strix 2070
+  * 1.0: memory
+  * 2.0: power
+  * 3.0: back
 * Asus dual 2080, Strix 2080
   * 1.5: power, memory
   * 3.0: back
