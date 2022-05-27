@@ -58,6 +58,7 @@
   * 1.5: main power drivers; mem-related power; main PWM
   * 1.0: Gddr5, main power mosfet
 * Sapphire Nitro+ 480 (E347)
+  * 0.5: Back under power
   * 2.5: Back
   * 1.25: GDDR5
   * 0.8(1): power mosfets
