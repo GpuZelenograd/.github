@@ -147,6 +147,9 @@
 * Galax P104-100
   * 0.8(1): power mosfets
   * 1.5: memory
+* EVGA 1660s 06G-P4-1068-KR
+  * 2.5: back
+  * 5/10+2.5: memory
 * Gigabyte 2070Super
   * 1.0: memory, inductor, mosfet
   * 2.0: power 12v caps
