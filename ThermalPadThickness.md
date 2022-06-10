@@ -145,6 +145,11 @@
 * Gigabyte p106-100
   * 1.5: memory
   * 1.1(1.5): gpu power mosfet
+* Gigabyte 1070 ITX
+  * 0.4(0.5): memory
+  * 1.0: back power
+  * 1.5: gpu power mosfet, power inductor
+  * 1.5: back memory
 * Galax P106-100
   * 6+1.5: memory
   * 1.5: memory,power mosfets
