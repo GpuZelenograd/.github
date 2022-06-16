@@ -80,6 +80,7 @@
   * 1.0(use 1.5) - power mosfets
 * Asus Strix 480
   * 0.5: memory (small bracket)
+  * 1.5: near memory (small bracket)
   * 1.5: power (may be different on revisions)
   * 3.0: back
 * Asus Strix 1080ti
