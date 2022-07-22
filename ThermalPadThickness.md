@@ -130,7 +130,7 @@
   * 2.0: back GPU "X", power mosfets
   * 3.0: back memory, back gpu power
 * Gigabyte 570 Aorus
-  * 0.2: memory
+  * 0.4: memory
   * 1.5: power mosfets, inductors
   * 3.0: back
 * Gigabyte 580 Gaming
