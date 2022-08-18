@@ -107,6 +107,10 @@
   * 1.5: power front
   * 2.7(3): DrMos back, mem back, mem pwm front
   * 4: mem center back
+* Inno3d 2080ti
+  * 1.0: mem front, long DrMos
+  * 2.5: short DrMos
+  * 3.0: back
 * Gigabyte 2070 Gaming
   * 0.8: memory, input capacitors & inductors line
   * 1.25: DrMos, indutors, gpu out capacitors
