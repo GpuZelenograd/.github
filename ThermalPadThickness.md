@@ -213,6 +213,9 @@
   * 1.7(2): DrMos front, Back Isolated DrMos
   * 2:Inductor Front, 2x isolated DrMos
   * 2.7(3): DrMos back
+* Palit Dual ga104
+  * 2:mem front, mem power
+  * 1:drmos group
 * Gainward Phoenix ga104
   * 0.7(1):mem front
   * 1.0:drmos group, 5 isolated ICs, long inductors group, 2 small inductor groups.
