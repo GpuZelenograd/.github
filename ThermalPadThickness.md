@@ -146,6 +146,10 @@
   * 0.8: inductors,power mosfets
   * 2.0: back power mosfets
   * 2.5: back memory, back memory power
+* Gigabyte 1080 Turbo
+  * 0.5: power mosfets
+  * 0.8: inductors
+  * 1.5: memory
 * Gigabyte 1080ti Gaming (no back, don't tighten the screws too much - otherwise pcb deformates and memory cooling suffers)
   * 0.5: memory, gpu inductor
   * 0.5/1.5: gpu power 12v caps
