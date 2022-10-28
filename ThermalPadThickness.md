@@ -83,6 +83,10 @@
   * 1.5: near memory (small bracket)
   * 1.5: power (may be different on revisions)
   * 3.0: back
+* Asus Strix 580
+  * 1.3(1.5): memory
+  * 1.5: power
+  * 2.7(3): back
 * Asus Strix 1080ti
   * 1.0: memory
   * 1.5: power
