@@ -236,6 +236,6 @@
   * 1.0: mem, mosfet, inductor
   * 3.0: back
 * Asus strix 5500XT
-  * 0.5: memory front
+  * 1.0(?): memory front
   * 0.8(1.0): power front
   * 4.0: memory back
