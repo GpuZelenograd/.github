@@ -1,5 +1,5 @@
 # By [GpuZelenograd](https://gpuzelenograd.github.io/)
-## Толщины термопрокладок (mm)
+## Thermal pads thickness for some GPUS (mm)
 
 * Gigabyte 1050ti OC
   * 1.0 Memory, nothing at power
