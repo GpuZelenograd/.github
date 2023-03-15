@@ -78,6 +78,10 @@
   * 0.5: Back under power
 * Asus dual 580
   * 1.0(use 1.5) - power mosfets
+* Asus Strix 1070
+  * 0.8(1): memory (small bracket)
+  * 1.5: power
+  * 3.0: back
 * Asus Strix 480
   * 0.5: memory (small bracket)
   * 1.5: near memory (small bracket)
