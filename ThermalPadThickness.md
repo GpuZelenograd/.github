@@ -1,6 +1,8 @@
 # By [GpuZelenograd](https://gpuzelenograd.github.io/)
 ## Thermal pad thickness for some GPUS (mm)
 
+* Gigabyte 960 Mini OC GV-N960IXOC-4GD
+  * 1.0 (exact, 0.9 will be not enough) power
 * Gigabyte 1050ti OC
   * 1.0 Memory, nothing at power
 * EVGA GeForce GTX 980 Ti SC+ GAMING ACX 2.0+
