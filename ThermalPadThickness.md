@@ -112,6 +112,9 @@
   * 3.0: back
 * Asus turbo (1070ti, 1080)
   * 1.5: power, memory
+* Asus turbo 3070
+  * 1.0: power near blower
+  * 2.0: power near video output, memory
 * Inno3d ichill 1070ti
   * 1.0: mem front, power front
   * 2.7(3): DrMos back, mem back
