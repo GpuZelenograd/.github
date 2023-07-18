@@ -115,6 +115,10 @@
 * Asus turbo 3070
   * 1.0: power near blower
   * 2.0: power near video output, memory
+* Asus TUF 3060
+  * 2.0: mosfets, memory
+  * 2.55(3.0): back, back-front-connection
+  * 3.0: inductors
 * Inno3d ichill 1070ti
   * 1.0: mem front, power front
   * 2.7(3): DrMos back, mem back
