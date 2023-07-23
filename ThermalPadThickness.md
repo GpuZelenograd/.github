@@ -260,3 +260,5 @@
   * 1.0(?): memory front
   * 0.8(1.0): power front
   * 4.0: memory back
+* Radeon Pro WX5100
+ * 1.0: mem, mosfet
