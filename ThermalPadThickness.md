@@ -117,8 +117,12 @@
   * 2.0: power near video output, memory
 * Asus TUF 3060
   * 2.0: mosfets, memory
-  * 2.55(3.0): back, back-front-connection
-  * 3.0: inductors
+  * 2.55(3.0): back (plastic layer removed), back-front-connection (optional)
+  * 3.0: inductors (thin R30/R15)
+* Asus TUF 3070
+  * 2.0: mosfets, memory, inductors (thick R15)
+  * 2.5: back (plastic layer keeped)
+  * 2.55(3.0): back-front-connection (optional)
 * Inno3d ichill 1070ti
   * 1.0: mem front, power front
   * 2.7(3): DrMos back, mem back
