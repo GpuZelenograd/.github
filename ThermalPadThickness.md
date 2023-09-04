@@ -115,7 +115,7 @@
 * Asus turbo 3070
   * 1.0: power near blower
   * 2.0: power near video output, memory
-* Asus TUF 3060
+* Asus TUF 3060/Ti
   * 2.0: mosfets, memory
   * 2.55(3.0): back (plastic layer removed), back-front-connection (optional)
   * 3.0: inductors (thin R30/R15)
