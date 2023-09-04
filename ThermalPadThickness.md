@@ -257,12 +257,14 @@
 * Gainward Phoenix ga104
   * 0.7(1):mem front
   * 1.0:drmos group, 5 isolated ICs, long inductors group, 2 small inductor groups.
-* Aorus ga104-12GB
+* Gigabyte 3060 (Gaming & Aorus)
   * 1.0: mem, mosfet, inductor
   * 3.0: back
+* Gigabyte 1650 GDDR6 WINDFORCE
+  * 2.0: mem
 * Asus strix 5500XT
   * 1.0(?): memory front
   * 0.8(1.0): power front
   * 4.0: memory back
 * Radeon Pro WX5100
- * 1.0: mem, mosfet
+  * 1.0: mem, mosfet
