@@ -266,7 +266,11 @@
   * 0.7(1):mem front
   * 1.0:drmos group, 5 isolated ICs, long inductors group, 2 small inductor groups.
 * Gigabyte 3060 (Gaming & Aorus)
-  * 1.0: mem, mosfet, inductor
+  * 1.0: mem, DrMos, inductor
+  * 3.0: back
+* Gigabyte 3070 Gaming
+  * 1.0: mem, isolated DrMos next to mem
+  * 1.5: DrMos, inductor
   * 3.0: back
 * Gigabyte 1650 GDDR6 WINDFORCE
   * 2.0: mem
