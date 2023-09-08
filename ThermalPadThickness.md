@@ -258,6 +258,10 @@
 * Palit Dual ga104
   * 2: mem front, mem power
   * 1: drmos group
+* Zotac 3070 3xFan Chinese
+  * 2.0: memory, back-front thermal connection
+  * 2.5: line with 9 DrMOS; 10th isolated DrMos next to mem; line of 2 mem mosfets
+  * 3.0: back
 * Gainward Phoenix ga104
   * 0.7(1):mem front
   * 1.0:drmos group, 5 isolated ICs, long inductors group, 2 small inductor groups.
