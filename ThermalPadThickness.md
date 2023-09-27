@@ -138,7 +138,11 @@
   * 1.0: mem front, long DrMos
   * 2.5: short DrMos
   * 3.0: back
-* Gigabyte 2070 Gaming
+* Gigabyte 2070/2080 Super (non-Ref PCB)
+  * 1.0: memory, inductor, mosfet
+  * 2.0: power 12v caps, small P-mosfets (if soldered)
+  * 2.5: back
+* Gigabyte 2070 Gaming (Ref PCB)
   * 0.8: memory, input capacitors & inductors line
   * 1.25: DrMos, indutors, gpu out capacitors
   * 2.5: back
@@ -209,10 +213,6 @@
 * EVGA 1660s 06G-P4-1068-KR
   * 2.5: back
   * 5/10+2.5: memory
-* Gigabyte 2070Super
-  * 1.0: memory, inductor, mosfet
-  * 2.0: power 12v caps
-  * 2.5: back
 * Vega Turbo
   * 0.8:Inductors
   * 1.0:GPU Mosfets
