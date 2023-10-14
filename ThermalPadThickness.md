@@ -17,6 +17,9 @@
   * 2.0: Back
 * Asus Expedition 1050ti
   * 1.0: Memory
+* Palit Dual 1080
+  * 1.2(1.5): memory
+  * 2.0: main DrMos, memory mosfet
 * Palit Jetstream 1070ti
   * 2.5: Back
   * 1.5: Gddr5, Memory mosfet, Main mosfet
@@ -28,6 +31,10 @@
   * 2.5: Back
   * 1.5: Gddr5x, Memory mosfet, Meomry inductor, Main DrMos, Main doubler, main power input capacitors
   * 0.8/1.0: main inductor
+* Palit Dual 2060Super
+  * 2.5: Main DrMos
+  * 2.0: Memory, fat memory mosfet
+  * 1.0: Main Inductor
 * Palit Gamerock 2080
   * 2.2(2.5): Back
   * 2.0: Gddr5x, mosfet, switchable mosfets (2 groups), 3 ICS
@@ -36,9 +43,6 @@
   * 1.0: inductors
   * 2.0: memory, main DrMos, memory mosfet
   * 3.0: front power balance
-* Palit Dual 1080
-  * 1.2(1.5): memory
-  * 2.0: main DrMos, memory mosfet
 * EVGA 1080 FTW
   * 2.0: Back
   * 1.5: Gddr5x, mosfet
