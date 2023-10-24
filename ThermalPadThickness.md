@@ -35,6 +35,9 @@
   * 2.5: Main DrMos
   * 2.0: Memory, fat memory mosfet
   * 1.0: Main Inductor
+* Palit GamingPro 2060Super
+  * 2.0: Memory, fat memory mosfet, DrMOS, switchable mosfets (1 group of 4)
+  * 1.0: Input tantalum, output tantalum, Main Inductor, Memory inductor
 * Palit Gamerock 2080
   * 2.2(2.5): Back
   * 2.0: Gddr5x, mosfet, switchable mosfets (2 groups), 3 ICS
