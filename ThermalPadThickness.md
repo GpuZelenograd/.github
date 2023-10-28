@@ -1,6 +1,9 @@
 # By [GpuZelenograd](https://gpuzelenograd.github.io/)
 ## Thermal pad thickness for some GPUS (mm)
 
+* GRID K2
+  * 1.0 Green: 16x memory back, 16x memory front, 4x memory power dual mosfets, 3x tantalums front, 2x PLX power mosfets
+  * 1.0 Gray: 8x DrMOS, 1x PLX
 * Gigabyte 960 Mini OC GV-N960IXOC-4GD
   * 1.0 (exact, 0.9 will be not enough) power
 * Gigabyte 1050ti OC
