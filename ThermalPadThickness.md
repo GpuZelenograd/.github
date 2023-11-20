@@ -227,6 +227,9 @@
 * EVGA 1660s 06G-P4-1068-KR
   * 2.5: back
   * 5/10+2.5: memory
+* Gigabyte 1660 SUper Mini ITX
+  * 1.0: Inductors, power, memory channel A
+  * 2.5: other memory
 * Vega Turbo
   * 0.8:Inductors
   * 1.0:GPU Mosfets
