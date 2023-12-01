@@ -123,7 +123,7 @@
   * 3.0: back
 * Asus dual 2070, 2080, Strix 2080
   * 1.5: power, memory
-  * 2.5: Central p-MOsfets block (if present)
+  * 2.5: Central P-Mosfets block (if present)
   * 3.0: back
 * Asus turbo (1070ti, 1080)
   * 1.5: power, memory
