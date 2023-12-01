@@ -122,7 +122,7 @@
   * 2.0: memory, inductor (support, not thermal)
   * 3.0: back
 * Asus dual 2070, 2080, Strix 2080
-  * 1.5: power, memory
+  * 1.5: front all: power, memory, capacitors
   * 2.5: Central P-Mosfets block (if present)
   * 3.0: back
 * Asus turbo (1070ti, 1080)
