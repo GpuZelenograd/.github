@@ -96,6 +96,10 @@
   * 0.5: Back under power
 * Asus dual 580
   * 1.0(use 1.5) - power mosfets
+* XFX 590 GME 215-0910066
+  * 3.0 - Back
+  * 1.5 - DrMOS
+  * 0.75 - Memory
 * Asus Strix 1070
   * 0.8(1): memory (small bracket)
   * 1.5: power
@@ -294,6 +298,16 @@
   * 3.0: back
 * Gigabyte 1650 GDDR6 WINDFORCE
   * 2.0: mem
+* Gigabyte 1650 GDDR6 WINDFORCE
+  * 2.0: mem
+* Colorful iGame 3060
+  * 2.0: mem, power
+  * 3.0: back
+* MSI 3060 Ventus 3X
+  * 3.0 top empty memory pads
+  * 2.5 bottom memory
+  * 2.0 side memory
+  * 1.5 power
 * Asus strix 5500XT
   * 1.0(?): memory front
   * 0.8(1.0): power front
