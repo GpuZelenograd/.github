@@ -286,6 +286,9 @@
 * Palit Dual ga104
   * 2: mem front, mem power
   * 1: drmos group
+* Zotac 2080 AMP Extreme
+  * 2.5: back
+  * 2.0: memory, Drmos, PEX&1.8, 
 * Zotac 3070 3xFan Chinese
   * 2.0: memory, back-front thermal connection
   * 2.5: line with 9 DrMOS; 10th isolated DrMos next to mem; line of 2 mem mosfets
