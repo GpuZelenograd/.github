@@ -287,7 +287,7 @@
   * 2: mem front, mem power
   * 1: drmos group
 * Zotac 2080 AMP Extreme
-  * 2.5: back
+  * 2.5: back memory, back power, back power balancer
   * 2.0: memory, Drmos GPU&MEM, PEX&1.8, Power balancers
 * Zotac 3070 3xFan Chinese
   * 2.0: memory, back-front thermal connection
