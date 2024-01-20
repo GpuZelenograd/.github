@@ -23,6 +23,10 @@
 * Palit Dual 1080
   * 1.2(1.5): memory
   * 2.0: main DrMos, memory mosfet
+* Palit Dual 1070
+  * 1.5: Inductors
+  * 1.5(1.75): Gddr5
+  * 2.0: Memory mosfet, Main DrMOS
 * Palit Jetstream 1070ti
   * 2.5: Back
   * 1.5: Gddr5, Memory mosfet, Main mosfet
