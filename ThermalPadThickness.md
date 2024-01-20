@@ -100,6 +100,8 @@
   * 3.0 - Back
   * 1.5 - DrMOS
   * 0.75 - Memory
+* Soyo 580 2048SP 4Phase Solid Alu block+2 heatpipes+2fans
+  * 1.5: power, memory
 * Asus Strix 1070
   * 0.8(1): memory (small bracket)
   * 1.5: power
