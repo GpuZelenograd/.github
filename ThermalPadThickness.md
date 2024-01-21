@@ -311,10 +311,12 @@
   * 3.0: back
 * Gigabyte 1650 GDDR6 WINDFORCE
   * 2.0: mem
-* Gigabyte 1650 GDDR6 WINDFORCE
-  * 2.0: mem
-* Colorful iGame 3060
+* Colorful iGame 3060 Ultra
   * 2.0: mem, power, back (with plastic keeped)
+* Colorful iGame 3060 Advanced
+  * 1.5: Gpu DrMos, memory mosfet
+  * 2.0: mem (single plain with GPU)
+  * 3.0: back
 * MSI 3060 Ventus 3X
   * 3.0 top empty memory pads
   * 2.5 bottom memory
