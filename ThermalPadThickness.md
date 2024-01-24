@@ -289,7 +289,10 @@
   * 1.7(2): DrMos front, Back Isolated DrMos
   * 2:Inductor Front, 2x isolated DrMos
   * 2.7(3): DrMos back
-* Palit Dual ga104
+* KFA2 3050 X Black
+  * 2.0: mem front, mem power
+  * 2.5: DrMOS line, mem mosfet, back
+* Palit Dual 3060ti
   * 2: mem front, mem power
   * 1: drmos group
 * Zotac 2080 AMP Extreme
