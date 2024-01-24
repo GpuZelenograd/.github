@@ -290,7 +290,7 @@
   * 2:Inductor Front, 2x isolated DrMos
   * 2.7(3): DrMos back
 * KFA2 3050 X Black
-  * 2.0: mem front, mem power
+  * 2.0: mem front
   * 2.5: DrMOS line, mem mosfet, back
 * Palit Dual 3060ti
   * 2: mem front, mem power
