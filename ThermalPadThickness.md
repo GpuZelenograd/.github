@@ -38,7 +38,7 @@
   * 2.5: Back
   * 1.5: Gddr5x, Memory mosfet, Meomry inductor, Main DrMos, Main doubler, main power input capacitors
   * 0.8/1.0: main inductor
-* Palit Dual 2060Super
+* Palit Dual 2060Super, StormX 1660Ti
   * 2.5: Main DrMos
   * 2.0: Memory, fat memory mosfet
   * 1.0: Main Inductor
