@@ -253,39 +253,44 @@
   * 1.5:Memory Mosfet
 * Palit Gaming Pro 3070
   * 1.0:front memory, 2groups GPU inductors, 1group MEM inductors, 2mem mosfets, GPU DrMos group, isolated DrMos, isolated DrMos+PEX group, isolated 1.8Power
-* Palit Gaming Pro OC GA102-200
+* Palit Gaming Pro OC 3080
   * 1.0:front memory, 2groups inductors, isolated inductor, 2groups power
   * 1.5:small front isolated DrMos
   * 2.0:small front PEXVDD
   * 2.0:back memory, 2groups power back
-* Palit Gaming Pro OC GA102-300
+* Palit Gaming Pro OC 3090
   * 1.0:front memory, back memory, 2groups inductors, isolated inductor, 2groups power
   * 1.5:small front isolated DrMos
   * 2.0:small front PEXVDD
   * 2.0:2groups power back
-* Strix GA102-200
+* Strix 3080
   * 0.5(1):back 2x power out capacitors
   * 1.5:mosfets (2 lanes)
   * 2.0:memory
   * 2.6(2.5):inductors
   * 2.5(3):back memory, back mosfet
-* Ventus ga102-300
+* Ventus 3090
   * 1.5: DrMos, 2x front PWMs, Isolated DrMos, Pex PWM
   * 2.3(2 front, 2.5back): memory
   * 3.0: inductor, alu capacitors
   * 3.5(4): DrMos back
   * 1.5(2): sides thermal connection
-* Suprim X ga102-300
+* Suprim X 3070
+  * 1.0:Memory Mosfets
+  * 1.5:GPU DrMos
+  * 2.0:memory, round front capacitors, inductors
+  * 4.0:back without plastic
+* Suprim X 3090
   * 1.5:front flat capacitors (2 lanes)
   * 2.0:sides thermal connection, front inductors, Front DrMos (2 lanes), 5 big front ICs, 1 small front IC
   * 2.5:front memory, front PCIe power
   * 3.0:back memory
   * 3.3:back DrMos
-* Inno3d ichill ga102-200
+* Inno3d ichill 3080
   * 1.0: DrMos front, mem front
   * 2.0: Inductor Front, 2x isolated DrMos Front
   * 2.7(3): DrMos back, mem back
-* Inno3d ichill X4 ga102-300
+* Inno3d ichill X4 3080
   * 0.7(1):mem front
   * 1.0:mem back
   * 1.7(2): DrMos front, Back Isolated DrMos
