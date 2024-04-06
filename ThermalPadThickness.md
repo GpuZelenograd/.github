@@ -142,6 +142,10 @@
 * Asus turbo 3070
   * 1.0: power near blower
   * 2.0: power near video output, memory
+* Asus Dual 3060Ti Mini
+  * 1.5: back (with 0.25 plastic)
+  * 2.0: DrMos, mosfets, memory
+  * 3.0: inductors (thin)
 * Asus Dual 3060Ti
   * 2.0: mosfets, small-memory-power-to-main-thermal-connection
   * 2.5: memory
