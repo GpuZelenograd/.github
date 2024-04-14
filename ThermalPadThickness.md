@@ -323,6 +323,10 @@
   * 1.0: mem, isolated DrMos next to mem
   * 1.5: DrMos, inductor
   * 3.0: back
+* Gigabyte 3070 Ti Gaming
+  * 1.0: DrMos, inductor
+  * 2.0: mem
+  * 3.0: back, memory mosfet
 * Gigabyte 1650 GDDR6 WINDFORCE
   * 2.0: mem
 * Colorful iGame 3060 Ultra
