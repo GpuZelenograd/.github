@@ -153,7 +153,7 @@
 * Asus TUF 3060/Ti
   * 2.0: main DrMos line, memory
   * 2.55(3.0): back (plastic layer removed), back-front-connection (optional)
-  * 3.0: inductors (thin R30/R15), 2 extra DrMos left
+  * 3.0: inductors (thin R30/R15), 2 extra DrMos right
 * Asus TUF 3070
   * 2.0: mosfets, memory, inductors (thick R15)
   * 2.5: back (plastic layer keeped)
