@@ -173,10 +173,14 @@
   * 1.0: mem front, long DrMos
   * 2.5: short DrMos
   * 3.0: back
-* Gigabyte 2070/2080 Super (non-Ref PCB)
+* Gigabyte 2070/2080 Super (non-Ref PCB, varinat A)
   * 1.0: memory, inductor, mosfet
   * 2.0: power 12v caps, small P-mosfets (if soldered)
   * 2.5: back
+* Gigabyte 2080 Super (non-Ref PCB, varinat B)
+  * 0.75: memory, gpu out capacitors
+  * 1.5: DrMos, indutors
+  * 3.0:(2.7): back
 * Gigabyte 2070 Gaming (Ref PCB)
   * 0.8: memory, input capacitors & inductors line
   * 1.25: DrMos, indutors, gpu out capacitors
