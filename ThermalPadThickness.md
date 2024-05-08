@@ -299,7 +299,7 @@
   * 2.0: Inductor Front, 2x isolated DrMos Front
   * 2.7(3): DrMos back, mem back
 * Inno3d ichill X4 3080
-  * 0.7(1):mem front
+  * 1.0(0.75 for flat cooler):mem front
   * 1.0:mem back
   * 1.7(2): DrMos front, Back Isolated DrMos
   * 2:Inductor Front, 2x isolated DrMos
