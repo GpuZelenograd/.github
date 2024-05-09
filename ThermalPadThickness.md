@@ -302,7 +302,8 @@
   * 1.0(0.75 for flat cooler):mem front
   * 1.0:mem back
   * 1.7(2): DrMos front, Back Isolated DrMos
-  * 2:Inductor Front, 2x isolated DrMos
+  * 2:Inductor Front
+  * 2.5:2x isolated DrMos
   * 2.7(3): DrMos back
 * KFA2 3050 X Black
   * 2.0: mem front
