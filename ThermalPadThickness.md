@@ -249,6 +249,11 @@
   * 1.5: memory
 * Galax 1080 HoF
   * 0.8(1): DrMOS, power mosfets, memory
+* Galax 3060Ti MetalTop
+  * 1.25: Drmos
+  * 1.5: insuctors
+  * 2.0: memory
+  * 2.35(2.5): back
 * EVGA 1660s 06G-P4-1068-KR
   * 2.5: back
   * 5/10+2.5: memory
