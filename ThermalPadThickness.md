@@ -143,8 +143,8 @@
   * 2.0: power near video output, memory
 * Asus Phoenix 3060
   * 1.5: back (with 0.25 plastic), Gpu DrMos, inductors (thin)
-  * 2.25: memory
-  * 2.5: memory DrMos
+  * 2.25(2.5): memory
+  * 2.5: memory mosfet
 * Asus Dual 3060Ti Mini
   * 1.5: back (with 0.25 plastic)
   * 2.0: DrMos, mosfets, memory
