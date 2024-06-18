@@ -205,6 +205,11 @@
   * 2.0: power mosfets
   * 3.0: back GPU, back memory, back power, back memory power, memory mosfets betweeen Cs
   * 4.0: side memory mosfets
+* Gigabyte 1080ti Aorus Waterforce
+  * 1.0: memory, gpu power capacitors, Inductors GPU, Inductors GPU, DrMos, back capacitors lines: input & output
+  * 2.0: memory mosfets
+  * 3.0: back GPU, back memory, back gpu DRMos, back memory mosfets
+  * 4.0: central DrMos
 * Gigabyte 1080 Aorus X
   * 0.4(0.5): gpu inductor
   * 1.0: back out gpu power capacitors
