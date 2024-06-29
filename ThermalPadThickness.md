@@ -129,9 +129,10 @@
   * 1.0: memory
   * 2.0: power
   * 3.0: back
-* Asus dual 2060 EVO
+* Asus dual 1660/2060 EVO
   * 1.5: Mosfets
-  * 2.0: memory, inductor (support, not thermal)
+  * 2.0: inductor (support, not thermal)
+  * 2.5: memory
   * 3.0: back
 * Asus dual 2070, 2080, Strix 2080
   * 1.5: front all: power, memory, capacitors
