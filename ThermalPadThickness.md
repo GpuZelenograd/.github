@@ -367,3 +367,7 @@
   * 4.0: memory back
 * Radeon Pro WX5100
   * 1.0: mem, mosfet
+* Quadro RTX 5000
+  * 1.0: mem
+  * 1.5: 3x long sequence of power element (DrMos, in caps, out caps)
+  * 2.0: small elements
