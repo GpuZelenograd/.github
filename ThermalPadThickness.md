@@ -195,7 +195,7 @@
   * 1.0: memory mosfets, cpu mosfets, memory indutor, gpu indutor, gpu out capacitors
   * 2.0: gpu input capacitors (rectangle)
   * 3.0: back
-* Gigabyte 2060S Aorus
+* Gigabyte 2060S, 2080 Aorus
   * 0.8: memory
   * 1.0: memory mosfets, cpu mosfets, memory indutor, gpu indutor, gpu out capacitors, gpu input capacitors (octagon)
   * 3.0: back
