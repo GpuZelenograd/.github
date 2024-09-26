@@ -18,7 +18,7 @@
 * Asus Strix 1050ti
   * 1.5: Power
   * 2.0: Back
-* PCPartner OEM (Zotac/Sapphire) 1650 GDDR5
+* 1650 GDDR5 TU117 single plain GPU+memory (PCPartner OEM (Zotac/Sapphire, MSI Aero)
   * 1.0: Memory
 * Asus Expedition 1050ti
   * 1.0: Memory
