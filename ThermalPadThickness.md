@@ -264,6 +264,10 @@
   * 1.5: insuctors
   * 2.0: memory
   * 2.35(2.5): back
+* MSI 1660* VENTUS XS
+  * 1.5 power
+  * 2.0 mem AD Central
+  * 2.5 mem BC Side
 * EVGA 1660s 06G-P4-1068-KR
   * 2.5: back
   * 5/10+2.5: memory
@@ -320,6 +324,11 @@
   * 2:Inductor Front
   * 2.5:2x isolated DrMos
   * 2.7(3): DrMos back
+* CMP 90HX 3fan
+  * 1.0: Copper support
+  * 1.5: DrMOS, inductors
+  * 0.75liquid+0.5copper: Mem
+  * 2.5: back
 * KFA2 3050 X Black
   * 2.0: mem front
   * 2.5: DrMOS line, mem mosfet, back
