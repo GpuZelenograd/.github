@@ -328,7 +328,7 @@
   * 1.0: Copper support
   * 1.5: DrMOS, inductors
   * 0.75liquid+0.5copper: Mem
-  * 2.5: back
+  * 2.5: back, isolated DrMos, Pex
 * KFA2 3050 X Black
   * 2.0: mem front
   * 2.5: DrMOS line, mem mosfet, back
