@@ -264,6 +264,11 @@
   * 1.5: insuctors
   * 2.0: memory
   * 2.35(2.5): back
+* Gainward 3060Ti Chasing Wind
+  * 1: Drmos, memory mosfet
+  * 1.5: insuctors
+  * 2.0: memory
+  * 2.5: back
 * MSI 1660* VENTUS XS
   * 1.5 power
   * 2.0 mem AD Central
