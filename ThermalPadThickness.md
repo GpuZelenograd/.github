@@ -350,6 +350,10 @@
 * Gainward Phoenix ga104
   * 0.7(1):mem front
   * 1.0:drmos group, 5 isolated ICs, long inductors group, 2 small inductor groups.
+* Gigabyte 3050 Gaming 3-Fan
+  * 1.25: DrMos, inductor, bottom memory
+  * 2.0: Side memory
+  * 3.0: back
 * Gigabyte 3060 (Gaming & Aorus)
   * 1.0: mem, DrMos, inductor
   * 3.0: back
