@@ -280,7 +280,7 @@
   * 1.0: Inductors, power, memory channel A
   * 2.5: other memory
 * Gigabyte 2060 2fan
-  * 1.25: DrMos, inductor, bottom memory
+  * 1.25: DrMos, inductor
   * 2.0: memory
 * Vega Turbo
   * 0.8:Inductors
