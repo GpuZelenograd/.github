@@ -260,15 +260,10 @@
 * Galax 1080 HoF
   * 0.8(1): DrMOS, power mosfets, memory
 * 3060Ti 3fan: Galax MetalTop, Gainward Chasing Wind
-  * 1.25: Drmos
-  * 1.5: insuctors
+  * 1.25: Drmos, memory mosfet
+  * 1.5: inductors
   * 2.0: memory
   * 2.35(2.5): back
-* Gainward 3060Ti Chasing Wind
-  * 1: Drmos, memory mosfet
-  * 1.5: insuctors
-  * 2.0: memory
-  * 2.5: back
 * MSI 1660* VENTUS XS
   * 1.5 power
   * 2.0 mem AD Central
