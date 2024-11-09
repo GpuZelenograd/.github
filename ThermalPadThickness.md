@@ -259,7 +259,7 @@
   * 1.5: memory
 * Galax 1080 HoF
   * 0.8(1): DrMOS, power mosfets, memory
-* Galax 3060Ti MetalTop
+* 3060Ti 3fan: Galax MetalTop, Gainward Chasing Wind
   * 1.25: Drmos
   * 1.5: insuctors
   * 2.0: memory
