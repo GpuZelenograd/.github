@@ -392,6 +392,10 @@
   * 1.0(?): memory front
   * 0.8(1.0): power front
   * 4.0: memory back
+* Asus dual 5600
+  * 1.5: power front
+  * 2.0(1.75): memory front
+  * 4.0(3.5): memory back
 * Radeon Pro WX5100
   * 1.0: mem, mosfet
 * Quadro RTX 5000
