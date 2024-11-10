@@ -293,7 +293,14 @@
   * 1.5:small front isolated DrMos
   * 2.0:small front PEXVDD
   * 2.0:2groups power back
-* Strix 3080
+* Aorus Xtreme 3090:
+  * absent: isolated Drmos near memory
+  * 1.0: front capacitors(4x lines), front inductors(2x lines)
+  * 1.25: front DrMos
+  * 2.0: back memory, front memory
+  * 2.5: pexvdd controller
+  * 3.0: back power
+* Strix 3080:
   * 0.5(1):back 2x power out capacitors
   * 1.5:mosfets (2 lanes)
   * 2.0:memory
