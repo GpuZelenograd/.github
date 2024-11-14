@@ -392,6 +392,9 @@
   * 1.0(?): memory front
   * 0.8(1.0): power front
   * 4.0: memory back
+* Powercolor 5600 ITX
+  * 1.0: DrMos
+  * 1.25: memory front
 * Asus dual 5600
   * 1.5: power front
   * 2.0(1.75): memory front
