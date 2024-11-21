@@ -401,6 +401,10 @@
   * 4.0(3.5): memory back
 * Radeon Pro WX5100
   * 1.0: mem, mosfet
+* Gigabyte 7700XT Gaming
+  * 1.5: inductors (2 lines)
+  * 2.0: memory, drmos (2 lines)
+  * 3.0: back
 * Quadro RTX 5000
   * 1.0: mem
   * 1.5: 3x long sequence of power element (DrMos, in caps, out caps)
