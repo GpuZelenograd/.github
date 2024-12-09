@@ -415,3 +415,5 @@
   * 1.0: mem
   * 1.5: 3x long sequence of power element (DrMos, in caps, out caps)
   * 2.0: small elements
+* RTX A2000
+  * 2.0: mem
