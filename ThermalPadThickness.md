@@ -323,6 +323,11 @@
   * 2.5:front memory, front PCIe power
   * 3.0:back memory
   * 3.3:back DrMos
+* Inno3d 3080 X3
+  * 1.0: DrMos front, Inductor Front
+  * 2.0: mem Front, mem back
+  * 2.5: isolated power ICs near mem (2x)
+  * 2.7(3): DrMos back
 * Inno3d ichill 3080
   * 1.0: DrMos front, mem front
   * 2.0: Inductor Front, 2x isolated DrMos Front
