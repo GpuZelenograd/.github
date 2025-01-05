@@ -359,7 +359,7 @@
   * 1.25: DrMos, inductor, bottom memory
   * 2.0: Side memory
   * 3.0: back
-* Gigabyte 3060 (Gaming & Aorus)
+* Gigabyte 3060 (Gaming & Aorus), 3060Ti Gaming
   * 1.0: mem, DrMos, inductor
   * 3.0: back
 * Gigabyte 3070 Gaming
