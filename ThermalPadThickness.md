@@ -173,6 +173,10 @@
   * 1.5: power front
   * 2.7(3): DrMos back, mem back, mem pwm front
   * 4: mem center back
+* Inno3d 2060S 2fan (Ref board, single plane GPU and mem):
+  * 1.0: DrMos 
+  * 2.0: mem
+  * 2.5: back
 * Inno3d 2080ti
   * 1.0: mem front, long DrMos
   * 2.5: short DrMos
