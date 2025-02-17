@@ -426,3 +426,7 @@
   * 2.0: small elements
 * RTX A2000
   * 2.0: mem
+* Palit Gamerock 4090 Omniblack
+  * 1.0: 2xlines inductors
+  * 2.0: mem, 4x mem DrMos near mem, 2xlines main DrMos
+  * 2.5: back
