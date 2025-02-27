@@ -281,6 +281,8 @@
 * Gigabyte 2060 2fan
   * 1.25: DrMos, inductor
   * 2.0: memory
+* Gigabyte 5700 Turbo
+  * 1.0:Memory, GPU DrMos, Memory DrMos
 * Vega Turbo
   * 0.8:Inductors
   * 1.0:GPU Mosfets
