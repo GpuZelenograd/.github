@@ -396,6 +396,8 @@
   * 2.0: mem (single plain with GPU)
   * 3.0: back
   * 4.0: (optional) main power inductors+capacitos to thermal pipes
+* MSI 3060Ti Twin fan
+  * 2.0 memory, DrMos, Inductors
 * MSI 3060 Ventus 3X
   * 3.0 top empty memory pads
   * 2.5 bottom memory
