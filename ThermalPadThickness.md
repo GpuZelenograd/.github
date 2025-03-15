@@ -403,6 +403,10 @@
   * 2.5 bottom memory
   * 2.0 side memory
   * 1.5 power
+* MSI 3060Ti GamingX TRIO
+  * 3.0 memory top, memory down, plastic back
+  * 2.5 memory side, Pads between heatsink and power heatsink/inductors
+  * 1.5 power (main, VRAM mosfet)
 * MSI 3070 Ventus 3X
   * 3.0 memory, plastic back
   * 2.5 Pads between heatsink and power heatsink/inductors
