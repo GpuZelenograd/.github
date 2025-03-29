@@ -18,8 +18,8 @@
 * Asus Strix 1050ti
   * 1.5: Power
   * 2.0: Back
-* 1650 GDDR5 TU117 single plain GPU+memory (PCPartner OEM (Zotac/Sapphire, MSI Aero)
-  * 1.0: Memory, MSI Aero assymetric radiator on power
+* 1650 GDDR5 TU117 single plain GPU+memory - PCPartner OEM (Zotac/Sapphire), MSI Aero, Asus Phoenix
+  * 1.0: Memory; MSI Aero(assymetric) /Asus Phoexnix: radiator on power
 * Asus Expedition 1050ti
   * 1.0: Memory
 * Palit Dual 1080
