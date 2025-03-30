@@ -18,7 +18,7 @@
 * Asus Strix 1050ti
   * 1.5: Power
   * 2.0: Back
-* 1650 GDDR5 TU117 single plain GPU+memory - PCPartner OEM (Zotac/Sapphire), MSI Aero, Asus Phoenix
+* 1650 TU117 single plain GPU+memory - PCPartner OEM (Zotac/Sapphire), MSI Aero, Asus Phoenix
   * 1.0: Memory; MSI Aero(assymetric) /Asus Phoexnix: radiator on power
 * Asus Expedition 1050ti
   * 1.0: Memory
@@ -350,6 +350,8 @@
   * 1.5: DrMOS, inductors
   * 0.75liquid+0.5copper: Mem
   * 2.5: back, isolated DrMos, Pex
+* 3050 GA106 same plain GPU+memory+power - Afox
+  * 2.0: Memory; DrMos
 * KFA2 3050 X Black
   * 2.0: mem front
   * 2.5: DrMOS line, mem mosfet, back
