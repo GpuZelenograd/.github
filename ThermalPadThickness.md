@@ -313,7 +313,7 @@
   * 0.5(1):back 2x power out capacitors
   * 1.5:mosfets (2 lanes)
   * 2.0:memory
-  * 2.6(2.5):inductors
+  * 2.6(2.5):inductors (only right-side of chip)
   * 2.5(3):back memory, back mosfet
 * Ventus 3090
   * 1.5: DrMos, 2x front PWMs, Isolated DrMos, Pex PWM
