@@ -278,7 +278,10 @@
 * Gigabyte 1660 SUper Mini ITX
   * 1.0: Inductors, power, memory channel A
   * 2.5: other memory
-* Gigabyte 2060 2fan
+* Gigabyte 2060 OC 2fan (rev 1.0, v18045, reference shortened+widened)
+  * 1.0: main power output cap, inductor
+  * 2.0: memory, DrMos, mosfet
+* Gigabyte 2060 OC 2fan (rev 2.0, V18091)
   * 1.25: DrMos, inductor
   * 2.0: memory
 * Gigabyte 5700 Turbo
