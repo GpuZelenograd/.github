@@ -309,6 +309,11 @@
   * 2.0: back memory, front memory
   * 2.5: pexvdd controller
   * 3.0: back power
+* TUF 3090:
+  * 1.0:back 2x power out capacitors
+  * 1.5:DrMos left
+  * 2.0:back memory, front memory, front right caps+inductors+DrMos, front left inductors, front left inter-metal
+  * 3.0:back-front connection
 * Strix 3080:
   * 0.5(1):back 2x power out capacitors
   * 1.5:mosfets (2 lanes)
