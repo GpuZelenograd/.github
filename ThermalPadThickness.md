@@ -449,6 +449,6 @@
   * 2.0: mem, 4x mem DrMos near mem, 2xlines main DrMos
   * 2.5: back
 * Asus TUF 4090-OG (long PCB)
- * 0.5: back capacitors
- * 2.0: all front: mem, 3x DrMos lines, 2x SPI FLash
- * 2.5: back DrMos, back memory
+  * 0.5: back capacitors
+  * 2.0: all front: mem, 3x DrMos lines, 2x SPI FLash
+  * 2.5: back DrMos, back memory
