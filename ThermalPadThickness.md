@@ -275,7 +275,10 @@
 * EVGA 1660s 06G-P4-1068-KR
   * 2.5: back
   * 5/10+2.5: memory
-* Gigabyte 1660 SUper Mini ITX
+* Gigabyte 1660 Gaming 3Fan GDDR5 (V19004)
+  * 0.8: memory
+  * 1.0: Inductors, power, memory
+* Gigabyte 1660 Super Mini ITX
   * 1.0: Inductors, power, memory channel A
   * 2.5: other memory
 * Gigabyte 2060 OC 2fan (rev 1.0, v18045, reference shortened+widened)
