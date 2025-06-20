@@ -281,6 +281,10 @@
 * Gigabyte 1660 Super Mini ITX
   * 1.0: Inductors, power, memory channel A
   * 2.5: other memory
+* Gigabyte 2060S Gaming 3fan (v19121/v19140)
+  * 1.0: memory
+  * 1.5: inductor, mosfet
+  * 3.0: back
 * Gigabyte 2060 OC 2fan (rev 1.0, v18045, reference shortened+widened)
   * 1.0: main power output cap, inductor
   * 2.0: memory, DrMos, mosfet
