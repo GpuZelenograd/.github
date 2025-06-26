@@ -173,6 +173,9 @@
   * 1.5: power front
   * 2.7(3): DrMos back, mem back, mem pwm front
   * 4: mem center back
+* Inno3d 1660Ti 2fan (Ref board, mem has extra plane):
+  * 0.5: mem
+  * 2.5: power, back
 * Inno3d 2060S 2fan (Ref board, single plane GPU and mem):
   * 1.0: DrMos 
   * 2.0: mem
