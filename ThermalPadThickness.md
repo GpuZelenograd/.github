@@ -470,5 +470,5 @@
 * Asus ROG Strix 4090 (short PCB)
   * 1.0: back capacitors 2xline
   * 1.25: memory
-  * 1.5: front Drmos: 4x isolated, 2x lines
+  * 2.0: front Drmos: 4x isolated, 2x lines
   * 3.0: back 1x line
