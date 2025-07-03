@@ -341,6 +341,10 @@
   * 1.5:GPU DrMos
   * 2.0:memory, round front capacitors, inductors
   * 4.0:back without plastic
+* Suprim X 3080Ti
+  * 1.5:front DrMos, flat capacitors, inductors (2+2+2 lanes)
+  * 2.0:front memory
+  * 3.5:back memory, back DrMos
 * Suprim X 3090
   * 1.5:front flat capacitors (2 lanes)
   * 2.0:sides thermal connection, front inductors, Front DrMos (2 lanes), 5 big front ICs, 1 small front IC
