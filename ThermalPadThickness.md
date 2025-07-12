@@ -342,7 +342,7 @@
   * 2.0:memory, round front capacitors, inductors
   * 4.0:back without plastic
 * Suprim X 3080Ti
-  * 1.5:front DrMos, flat capacitors, inductors (2+2+2 lanes)
+  * 1.5:front DrMos, flat capacitors, inductors (2+2+2 lanes), isolated inductor under bracket
   * 2.0:front memory
   * 3.5:back memory, back DrMos
 * Suprim X 3090
