@@ -275,6 +275,10 @@
   * 1.5 power
   * 2.0 mem AD Central
   * 2.5 mem BC Side
+* MSI 1660S Gaming X (v375 ver2.2)
+  * 1.0 mem extra plate
+  * 1.5 power extra plate
+  * 2.5 mem A main radiator
 * EVGA 1660s 06G-P4-1068-KR
   * 2.5: back
   * 5/10+2.5: memory
