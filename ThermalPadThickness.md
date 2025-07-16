@@ -340,6 +340,13 @@
   * 3.0: inductor, alu capacitors
   * 3.5(4): DrMos back
   * 1.5(2): sides thermal connection
+* MSI Gaming X Trio 3080Ti
+  * liquid:inter-connect for memory plate
+  * 1.0:front memory, flat in capacitors
+  * 1.5:front DrMos (2 lanes), flat out capacitors, PEX power IC
+  * 2.0:inductors (2 lanes)
+  * 2.5:front round caps (2 or 3 lines)
+  * 3.5:back memory
 * Suprim X 3070
   * 1.0:Memory Mosfets
   * 1.5:GPU DrMos
