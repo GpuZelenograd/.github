@@ -443,8 +443,9 @@
   * 2.5 memory side, Pads between heatsink and power heatsink/inductors
   * 1.5 power (main, VRAM mosfet)
 * MSI 3070 Ventus 3X
-  * 3.0 memory, plastic back
+  * 3.0 memory top, memory down, plastic back
   * 2.5 Pads between heatsink and power heatsink/inductors
+  * 2.0 memory side (some models may have another thickness)
   * 1.5 power (main, VRAM mosfet, isolated PEX)
 * Asus strix 5500XT
   * 1.0(?): memory front
