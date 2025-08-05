@@ -295,7 +295,11 @@
 * Gigabyte 2060 OC 2fan (rev 1.0, v18045, reference shortened+widened)
   * 1.0: main power output cap, inductor
   * 2.0: memory, DrMos, mosfet
-* Gigabyte 2060 OC 2fan (rev 2.0, V18091)
+* Gigabyte 1660 166SOC-6GD 2fan (rev 1.0, V19119)
+  * 0.75: memory A
+  * 1.25: DrMos, inductor
+  * 2.0: memory B,C
+* Gigabyte 1660 OC 2fan (rev 2.0, V18091)
   * 1.25: DrMos, inductor
   * 2.0: memory
 * Gigabyte 5700 Turbo
