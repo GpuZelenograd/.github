@@ -266,6 +266,9 @@
   * 1.5: memory
 * Galax 1080 HoF
   * 0.8(1): DrMOS, power mosfets, memory
+* 2060/2060Super 2 fan: Gainward Chasing Wind
+  * 2.0: memory, inductors, Drmos, memory mosfet
+  * 3.0: back
 * 3060Ti 3fan: Galax MetalTop, Gainward Chasing Wind
   * 1.25: Drmos, memory mosfet
   * 1.5: inductors
