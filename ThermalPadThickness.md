@@ -278,6 +278,10 @@
   * 1.5 power
   * 2.0 mem AD Central
   * 2.5 mem BC Side
+* MSI 2060Super VENTUS GP (v375 ver2.2)
+  * 1.5 DrMos, Mosfets, between small and main radiator
+  * 2.0 mem D Central, Inductors
+  * 2.5 mem BC Side, A tubes
 * MSI 1660S Gaming X (v375 ver2.2)
   * 1.0 mem extra plate
   * 1.5 power extra plate
