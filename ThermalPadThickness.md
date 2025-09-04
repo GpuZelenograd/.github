@@ -30,82 +30,82 @@
   * 1.5(1.75): Gddr5
   * 2.0: Memory mosfet, Main DrMOS
 * Palit Jetstream 1070ti
-  * 2.5: Back
   * 1.5: Gddr5, Memory mosfet, Main mosfet
+  * 2.5: Back
 * Palit Jetstream 1080ti, Gainward Phoenix 1080ti
-  * 2.5: Back
-  * 1.5: Gddr5x, Memory mosfet, Meomry inductor
   * 1.0: Main mosfet, main inductor
-* Palit Gamerock 1080ti
+  * 1.5: Gddr5x, Memory mosfet, Meomry inductor
   * 2.5: Back
-  * 1.5: Gddr5x, Memory mosfet, Meomry inductor, Main DrMos, Main doubler, main power input capacitors
+* Palit Gamerock 1080ti
   * 0.8/1.0: main inductor
+  * 1.5: Gddr5x, Memory mosfet, Meomry inductor, Main DrMos, Main doubler, main power input capacitors
+  * 2.5: Back
 * Palit Dual 2060Super, StormX 1660Ti, GamingPro 1660Super
-  * 2.5: Main DrMos
-  * 2.0: Memory, fat memory mosfet
   * 1.0: Main Inductor
+  * 2.0: Memory, fat memory mosfet
+  * 2.5: Main DrMos
 * Palit GamingPro 2060Super
-  * 2.0: Memory, fat memory mosfet, DrMOS, switchable mosfets (1 group of 4)
   * 1.0: Input tantalum, output tantalum, Main Inductor, Memory inductor
+  * 2.0: Memory, fat memory mosfet, DrMOS, switchable mosfets (1 group of 4)
 * Palit Gamerock 2080
+  * 0.5: input capacitors, main inductor
   * 2.2(2.5): Back
   * 2.0: Gddr5x, mosfet, switchable mosfets (2 groups), 3 ICS
-  * 0.5: input capacitors, main inductor
 * Palit Dual 2080
   * 1.0: inductors
   * 2.0: memory, main DrMos, memory mosfet
   * 3.0: front power balance
 * EVGA 1080 FTW
-  * 2.0: Back
   * 1.5: Gddr5x, mosfet
+  * 2.0: Back
 * MSI Duke 1080ti
-  * 3.0: Main power inductors
-  * 2.5: Back with plastic keeped
-  * 2.0: Main power out capacitors
-  * 1.5: main power drivers; 2 PWMs; 2 power ICs
   * 1.0: Gddr5x, main power mosfet, memory power mosfet
-* MSI Gaming 1080, 1070ti
-  * 2.5: Back with plastic keeped, inductors line support
-  * 2.0: 2 ICs near memory
-  * 1.5: power mosfets and drivers
-  * 1.0: Gddr5x, 3ICs near power, round output capacitors line support
-* MSI Gaming X 1080ti
+  * 1.5: main power drivers; 2 PWMs; 2 power ICs
+  * 2.0: Main power out capacitors
   * 2.5: Back with plastic keeped
-  * 1.5: main power drivers; mem power; 1 IC between memory and video outputs
+  * 3.0: Main power inductors
+* MSI Gaming 1080, 1070ti
+  * 1.0: Gddr5x, 3ICs near power, round output capacitors line support
+  * 1.5: power mosfets and drivers
+  * 2.0: 2 ICs near memory
+  * 2.5: Back with plastic keeped, inductors line support
+* MSI Gaming X 1080ti
   * 1.0: Gddr5x, main power mosfet, 2ICs near power
+  * 1.5: main power drivers; mem power; 1 IC between memory and video outputs
+  * 2.5: Back with plastic keeped
 * MSI Gaming X 580
-  * 2.8(3): Back with plastic keeped
-  * 1.5: main power drivers; mem-related power; main PWM
   * 1.0: Gddr5, main power mosfet
+  * 1.5: main power drivers; mem-related power; main PWM
+  * 2.8(3): Back with plastic keeped
 * Sapphire Nitro+ 480 (E347)
   * 0.5: Back under power
-  * 2.5: Back
-  * 1.25: GDDR5
   * 0.8(1): power mosfets
+  * 1.25: GDDR5
+  * 2.5: Back
 * Sapphire Pulse 570 (E353)
-  * 2.5: Back
-  * 1.3(1.5): GDDR5
+  * 0.5: Back under power
   * 1.0: power mosfets
-  * 0.5: Back under power
+  * 1.3(1.5): GDDR5
+  * 2.5: Back
 * Sapphire Pulse 580 (E353, E387)
-  * 2.5: Back
-  * 1.0: GDDR5, power mosfets
   * 0.5: Back under power
-* Sapphire Pulse 570 (E388)
+  * 1.0: GDDR5, power mosfets
   * 2.5: Back
-  * 1.5: GDDR5, power mosfets
+* Sapphire Pulse 570 (E388)
   * 1.0: Back under power
+  * 1.5: GDDR5, power mosfets
+  * 2.5: Back
 * Sapphire Nitro+ 570/580 (E366)
-  * 2.5: Back with plastic
+  * 0.5: Back under power
   * 0.7(1): GDDR5
   * 0.7(1): power mosfets
-  * 0.5: Back under power
+  * 2.5: Back with plastic
 * Asus dual 580
   * 1.0(use 1.5) - power mosfets
 * XFX 590 GME 215-0910066
-  * 3.0 - Back
-  * 1.5 - DrMOS
   * 0.75 - Memory
+  * 1.5 - DrMOS
+  * 3.0 - Back
 * Soyo 580 2048SP 4Phase Solid Alu block+2 heatpipes+2fans
   * 1.5: power, memory
 * Asus Strix 1070
@@ -164,8 +164,8 @@
   * 2.55(3.0): back-front-connection (optional)
 * Inno3d ichill 1070ti
   * 1.0: mem front, power front
-  * 2.7(3): DrMos back, mem back
   * 2.5: back with plastic
+  * 2.7(3): DrMos back, mem back
   * 4.0: center back
 * Inno3d ichill X3 1080ti
   * 0.8: inductor
@@ -248,19 +248,19 @@
   * 3.0: memory power 12v caps
   * 4.0: memory power mosfet
 * Zotac p102-100
-  * 1.5: memory, memory power
   * 1.0: gpu power mosfet
+  * 1.5: memory, memory power
 * Gigabyte p106-100
-  * 1.5: memory
   * 1.1(1.5): gpu power mosfet
+  * 1.5: memory
 * Gigabyte 1070 ITX
   * 0.4(0.5): memory
   * 1.0: back power
   * 1.5: gpu power mosfet, power inductor
   * 1.5: back memory
 * Galax P106-100
-  * 6+1.5: memory
   * 1.5: memory,power mosfets
+  * 6+1.5: memory
 * Galax P104-100
   * 0.8(1): power mosfets
   * 1.5: memory
@@ -347,10 +347,10 @@
   * 2.5(3):back memory, back mosfet
 * Ventus 3090
   * 1.5: DrMos, 2x front PWMs, Isolated DrMos, Pex PWM
+  * 1.5(2): sides thermal connection
   * 2.3(2 front, 2.5back): memory
   * 3.0: inductor, alu capacitors
   * 3.5(4): DrMos back
-  * 1.5(2): sides thermal connection
 * MSI Gaming X Trio 3080Ti
   * liquid:inter-connect for memory plate
   * 1.0:front memory, flat in capacitors
@@ -400,11 +400,11 @@
   * 2.0: mem front
   * 2.5: DrMOS line, mem mosfet, back
 * Palit Dual 3060ti
-  * 2: mem front, mem power
-  * 1: drmos group
+  * 1.0: drmos group
+  * 2.0: mem front, mem power
 * Zotac 2080 AMP Extreme
-  * 2.5: back memory, back power, back power balancer
   * 2.0: memory, Drmos GPU&MEM, PEX&1.8, Power balancers
+  * 2.5: back memory, back power, back power balancer
 * Zotac 3070 3xFan Chinese
   * 2.0: memory, back-front thermal connection
   * 2.5: line with 9 DrMOS; 10th isolated DrMos next to mem; line of 2 mem mosfets
@@ -445,22 +445,22 @@
 * MSI 3060Ti Twin fan
   * 2.0 memory, DrMos, Inductors
 * MSI 3060 Ventus 3X
-  * 3.0 top empty memory pads
-  * 2.5 bottom memory
-  * 2.0 side memory
   * 1.5 power
+  * 2.0 side memory
+  * 2.5 bottom memory
+  * 3.0 top empty memory pads
 * MSI 3060Ti GamingX TRIO
-  * 3.0 memory top, memory down, plastic back
-  * 2.5 memory side, Pads between heatsink and power heatsink/inductors
   * 1.5 power (main, VRAM mosfet)
-* MSI 3070 Ventus 3X
+  * 2.5 memory side, Pads between heatsink and power heatsink/inductors
   * 3.0 memory top, memory down, plastic back
-  * 2.5 Pads between heatsink and power heatsink/inductors
-  * 2.0 memory side (some models may have another thickness)
+* MSI 3070 Ventus 3X
   * 1.5 power (main, VRAM mosfet, isolated PEX)
+  * 2.0 memory side (some models may have another thickness)
+  * 2.5 Pads between heatsink and power heatsink/inductors
+  * 3.0 memory top, memory down, plastic back
 * Asus strix 5500XT
-  * 1.0(?): memory front
   * 0.8(1.0): power front
+  * 1.0(?): memory front
   * 4.0: memory back
 * Powercolor 5600 ITX
   * 1.0: DrMos
