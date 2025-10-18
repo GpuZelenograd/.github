@@ -453,6 +453,11 @@
   * 1.5 power (main, VRAM mosfet)
   * 2.5 memory side, Pads between heatsink and power heatsink/inductors
   * 3.0 memory top, memory down, plastic back
+* MSI 3070 GamingZ TRIO
+  * 1.5 power (main, VRAM mosfet), ITE IC
+  * 2.0 memory side (some models may have another thickness)
+  * 2.5 memory top, memory down, Pads between heatsink and power heatsink/inductors
+  * 3.0 plastic back
 * MSI 3070 Ventus 3X
   * 1.5 power (main, VRAM mosfet, isolated PEX)
   * 2.0 memory side (some models may have another thickness)
