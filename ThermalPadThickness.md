@@ -435,6 +435,10 @@
   * 3.0: back
 * Gigabyte 1650 GDDR6 WINDFORCE
   * 2.0: mem
+* Maxsun 3060 Terminator
+  * 1.5: Mosfets main&mem, inductors
+  * 2.0: mem (single-plain)
+  * 2.5: back
 * Colorful iGame 3060 Ultra
   * 2.0: mem, power, back (with plastic keeped)
 * Colorful iGame 3060 Advanced
