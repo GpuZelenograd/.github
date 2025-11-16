@@ -309,6 +309,9 @@
 * Gigabyte 1660 OC 2fan (rev 2.0, V18091)
   * 1.25: DrMos, inductor
   * 2.0: memory
+* Gigabyte 5700 Gaming (RAM-to-GPU planes 1.4)
+  * 0.5:memory
+  * 1.5:GPU DrMos, Inductors
 * Gigabyte 5700 Turbo
   * 1.0:Memory, GPU DrMos, Memory DrMos
 * Vega Turbo
