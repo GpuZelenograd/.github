@@ -266,6 +266,9 @@
   * 1.5: memory
 * Galax 1080 HoF
   * 0.8(1): DrMOS, power mosfets, memory
+* Colorful 2060S 2fan (vram is 1mm padded from GPU):
+  * 1.0: mosfet (own radiator), memory
+  * 3.0: back mosfet area (thin, effectively pressed to 2.5)  
 * 2060/2060Super 2 fan: Gainward Chasing Wind
   * 2.0: memory, inductors, Drmos, memory mosfet
   * 3.0: back
