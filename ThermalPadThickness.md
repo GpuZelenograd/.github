@@ -313,6 +313,10 @@
 * Gigabyte 1660 OC 2fan (rev 2.0, V18091)
   * 1.25: DrMos, inductor
   * 2.0: memory
+* Gigabyte 5700 Aorus (RAM-to-GPU planes 1.2)
+  * 0.5:memory
+  * 1.0:GPU DrMos, Inductors
+  * 3.0:back (memory, GPU, DrMos, 2 ICs)
 * Gigabyte 5700 Gaming (RAM-to-GPU planes 1.4)
   * 0.5:memory
   * 1.5:GPU DrMos, Inductors
