@@ -486,10 +486,15 @@
 * Powercolor 5600 ITX
   * 1.0: DrMos
   * 1.25: memory front
-* Asus dual 5600
+* Asus dual RX5600
   * 1.5: power front
   * 2.0(1.75): memory front
   * 4.0(3.5): memory back
+* Asus TUF RX6800 (common plane)
+  * 1.0: long inductors line
+  * 1.5: mem, Drmos (2 lines)
+  * 2.0: back mem
+  * 2.5: back power
 * Radeon Pro WX5100
   * 1.0: mem, mosfet
 * Gigabyte 7700XT Gaming
