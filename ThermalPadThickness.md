@@ -385,6 +385,10 @@
   * 2.5:front memory, front PCIe power
   * 3.0:back memory
   * 3.3:back DrMos
+* Inno3d ichill X4 3070ti (GPU&MEM single plane)
+  * 2.0: memory front
+  * 2.5: Main DrMOs,2x isolated power ICs (U17, U18), memory power, memory back
+  * 3.0: DrMos back, Inductor front
 * Inno3d 3080 X3
   * 1.0: DrMos front, Inductor Front
   * 2.0: mem Front, mem back
