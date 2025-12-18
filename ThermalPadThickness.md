@@ -273,6 +273,10 @@
 * 2060/2060Super 2 fan: Gainward Chasing Wind
   * 2.0: memory, inductors, Drmos, memory mosfet
   * 3.0: back
+* 3060Ti Colorful battleax
+  * 1.5: Drmos
+  * 2.0: memory, inductors
+  * 2.5: back
 * 3060Ti 3fan: Galax MetalTop, Gainward Chasing Wind
   * 1.25: Drmos, memory mosfet
   * 1.5: inductors
