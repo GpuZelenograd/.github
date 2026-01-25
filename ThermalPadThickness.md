@@ -162,6 +162,12 @@
   * 2.0: mosfets, memory, inductors (thick R15)
   * 2.5: back (plastic layer keeped)
   * 2.55(3.0): back-front-connection (optional)
+* Asus TUF 3070Ti/3060ti GDDR6X
+  * 1.0: back capacitors
+  * 1.5: front memory
+  * 2.0: back power (plastic layer removed), 2x front DrMos lines
+  * 2.5: connector between heatsinks, left front inductors (thin R15)
+  * 3.0: back memory, right front inductors (thin R15)
 * Inno3d ichill 1070ti
   * 1.0: mem front, power front
   * 2.5: back with plastic
