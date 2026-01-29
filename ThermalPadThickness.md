@@ -415,6 +415,11 @@
   * 2:Inductor Front
   * 2.5:2x isolated DrMos
   * 2.7(3): DrMos back
+* Inno3d ichill X4 3090
+  * 0.75:mem front
+  * 1.0: mem back, DrMos front
+  * 2.0: Inductor Front, front isolated DrMos, front isolated power IC
+  * 3.0: DrMos back
 * CMP 90HX 3fan
   * 1.0: Copper support
   * 1.5: DrMOS, inductors
