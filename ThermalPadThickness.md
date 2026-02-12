@@ -466,6 +466,10 @@
   * 3.0: back
 * Gigabyte 1650 GDDR6 WINDFORCE
   * 2.0: mem
+* MSI 1650 Tu117 GDDR6 GamingX
+  * 1.0: Upper mem
+  * 2.0: Side mem
+  * 2.5: Upper mem extra support
 * Maxsun 3060 Terminator
   * 1.5: Mosfets main&mem, inductors
   * 2.0: mem (single-plain)
