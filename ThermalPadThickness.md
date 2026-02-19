@@ -6,8 +6,6 @@
   * 1.0 Gray: 8x DrMOS, 1x PLX
 * Gigabyte 960 Mini OC GV-N960IXOC-4GD
   * 1.0 (exact, 0.9 will be not enough) power
-* Gigabyte 1050ti OC
-  * 1.0 Memory, nothing at power
 * EVGA GeForce GTX 980 Ti SC+ GAMING ACX 2.0+
   * 1.5 (1.2): memory, power mosfet, DrMOS
   * 2.0: back memory, back power
@@ -15,10 +13,17 @@
   * 1.0: power mosfet
   * 1.5: memory
   * 3.0: back power, back memory, back memory power
+* Gigabyte 1050ti OC
+  * 1.0: Memory, nothing at power
+* Gigabyte 1050ti G1 Gaming
+  * 0.5: Power
+  * 1.0: Memory top
+  * 1.25: Memory side
+    2.5: Back
 * Asus Strix 1050ti
   * 1.5: Power
   * 2.0: Back
-* 1650 TU117 single plain GPU+memory - PCPartner OEM (Zotac/Sapphire), MSI Aero, Asus Phoenix
+* 1650 TU117 single plain GPU+memory - PCPartner OEM (Zotac/Sapphire), MSI Aero, Asus Phoenix, Gigabyte GV-N1650
   * 1.0: Memory; MSI Aero(assymetric) /Asus Phoexnix: radiator on power
 * Asus Expedition 1050ti
   * 1.0: Memory
