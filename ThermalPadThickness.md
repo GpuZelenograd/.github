@@ -489,7 +489,12 @@
 * Colorful iGame 3070Ti Advanced
   * 1.5: Gpu DrMos
   * 2.0: mem, mem power mosfet
-  * 2.5: 2x PowerICs right-top of mem 
+  * 2.5: 2x PowerICs left-top of mem 
+  * 3.0: back
+* KFA2 3070Ti Core
+  * 1.5: Gpu Inductors line
+  * 2.0: Gpu DrMos, mem, mem power mosfet
+  * 2.5: 2x PowerICs left-top of mem, their inductors
   * 3.0: back
 * MSI 3060Ti Twin fan
   * 2.0 memory, DrMos, Inductors
