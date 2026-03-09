@@ -455,6 +455,11 @@
 * Gigabyte 3060 (Gaming & Aorus), 3060Ti Gaming
   * 1.0: mem, DrMos, inductor
   * 3.0: back
+* Gigabyte 3060Ti Aorus
+  * 0.5: inductor
+  * 0.75: mem
+  * 1.0: DrMos
+  * 3.0: back
 * Gigabyte 3070 Gaming
   * 1.0: mem, isolated DrMos next to mem
   * 1.5: DrMos, inductor
