@@ -486,6 +486,11 @@
   * 2.0: mem (single plain with GPU)
   * 3.0: back
   * 4.0: (optional) main power inductors+capacitos to thermal pipes
+* Colorful iGame 3070Ti Advanced
+  * 1.5: Gpu DrMos
+  * 2.0: mem, mem power mosfet
+  * 2.5: 2x PowerICs right-top of mem 
+  * 3.0: back
 * MSI 3060Ti Twin fan
   * 2.0 memory, DrMos, Inductors
 * MSI 3060 Ventus 3X
