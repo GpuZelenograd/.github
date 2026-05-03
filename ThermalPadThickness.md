@@ -491,6 +491,11 @@
   * 2.0: mem (single plain with GPU)
   * 3.0: back
   * 4.0: (optional) main power inductors+capacitos to thermal pipes
+* Colorful iGame 3070Ti Ultra
+  * 1.5: mem power fat mosfet
+  * 2.0: mem, Gpu DrMos
+  * 2.5: 2x PowerICs left-top of mem , Gpu inductors
+  * 2.3(2.5): back
 * Colorful iGame 3070Ti Advanced
   * 1.5: Gpu DrMos
   * 2.0: mem, mem power mosfet
