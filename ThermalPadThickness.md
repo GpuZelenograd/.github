@@ -545,6 +545,9 @@
   * 2.5: back power
 * Radeon Pro WX5100
   * 1.0: mem, mosfet
+* Sapphire Pulse RX7600
+  * 1.5: memory, DrMos line
+  * 2.0: 2x isolated DrMos
 * Gigabyte 7700XT Gaming
   * 1.5: inductors (2 lines)
   * 2.0: memory, drmos (2 lines)
