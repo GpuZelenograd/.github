@@ -435,6 +435,9 @@
 * KFA2 3050 X Black
   * 2.0: mem front
   * 2.5: DrMOS line, mem mosfet, back
+* AFOX 3060TI AF3060TI-8192D6H7-V2 P36V20 
+  * 2.0: mem front
+  * 2.5: DrMOS line, mem mosfet, back
 * Palit Dual 3060ti
   * 1.0: drmos group
   * 2.0: mem front, mem power
