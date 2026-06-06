@@ -530,6 +530,8 @@
   * 2.0 memory side (some models may have another thickness)
   * 2.5 Pads between heatsink and power heatsink/inductors
   * 3.0 memory top, memory down, plastic back
+* MSI 4070 Ventus 2X
+  * 2.0 memory, main DrMos
 * Asus strix 5500XT
   * 0.8(1.0): power front
   * 1.0(?): memory front
