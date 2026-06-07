@@ -301,6 +301,10 @@
   * 1.5 DrMos, Mosfets, between small and main radiator
   * 2.0 mem D Central, Inductors
   * 2.5 mem BC Side, A tubes
+* MSI 1660Ti Armor (v375 ver2.2)
+  * 1.5 DrMos, Mosfets
+  * 2.0 mem BC Side
+  * 2.5 mem A tubes
 * MSI 1660S Gaming X (v375 ver2.2)
   * 1.0 mem extra plate
   * 1.5 power extra plate
@@ -435,6 +439,10 @@
 * KFA2 3050 X Black
   * 2.0: mem front
   * 2.5: DrMOS line, mem mosfet, back
+* Palit 3050 GA107 8GB Dual (single plane)
+  * 1.0: mem front
+  * 2.0: low-side mosfets, inductors
+  * 3.0: back
 * AFOX 3060TI AF3060TI-8192D6H7-V2 P36V20 
   * 2.0: mem front
   * 2.5: DrMOS line, mem mosfet, back
@@ -548,11 +556,23 @@
   * 1.5: mem, Drmos (2 lines)
   * 2.0: back mem
   * 2.5: back power
+* Asrock RX6800XT Phantom (common plane)
+  * 1.5: mem, Drmos (2 lines)
+  * 2.0: inductors
+  * 3.0: back
+* MSI 6700XT Gaming X
+  * 1.5: Memory, DrMos 
+  * 2.0: Inductors 
+  * 3.0: back 
 * Radeon Pro WX5100
   * 1.0: mem, mosfet
 * Sapphire Pulse RX7600
   * 1.5: memory, DrMos line
   * 2.0: 2x isolated DrMos
+* Gigabyte RX6600 Eagle (v21002 + plastic back):
+  * 0.5: memory
+  * 1.0: inductors
+  * 1.5: DrMos
 * Gigabyte 7700XT Gaming
   * 1.5: inductors (2 lines)
   * 2.0: memory, drmos (2 lines)
