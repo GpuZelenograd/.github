@@ -485,6 +485,12 @@
   * 2.0: mem
   * 2.5: isolated power ICs near mem (2x)
   * 3.0: back
+* Gigabyte 3090 Gaming
+  * 1.0: input capacitor (1x line), inductor (2x line)
+  * 1.25: DrMos (2x line)
+  * 2.0: mem front, mem back
+  * 2.5: isolated power ICs near mem (2x)
+  * 3.0: power back
 * Gigabyte 1650 GDDR6 WINDFORCE
   * 2.0: mem
 * MSI 1650 Tu117 GDDR6 GamingX
