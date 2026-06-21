@@ -480,13 +480,13 @@
   * 2.0: mem
   * 3.0: back, memory mosfet
 * Gigabyte 3080 Ti Gaming
-  * 1.0: input capacitor (1x line), inductor (2x line)
+  * 1.0: flat input capacitor (1x line), inductor (2x line)
   * 1.25: DrMos (2x line)
   * 2.0: mem
   * 2.5: isolated power ICs near mem (2x)
   * 3.0: back
 * Gigabyte 3090 Gaming
-  * 1.0: input capacitor (1x line), inductor (2x line)
+  * 1.0: flat input capacitor (1x line), inductor (2x line)
   * 1.25: DrMos (2x line)
   * 2.0: mem front, mem back
   * 2.5: isolated power ICs near mem (2x)
