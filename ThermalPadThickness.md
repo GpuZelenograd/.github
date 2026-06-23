@@ -566,6 +566,10 @@
   * 1.5: mem, Drmos (2 lines)
   * 2.0: inductors
   * 3.0: back
+* XFX 6700XT QICK/MERC319
+  * 1.5: Memory, DrMos, Inductors
+  * 2.0: PWM controllers
+  * 3.0: Back (zones: Memory, back GPU, back PWM controller)
 * MSI 6700XT Gaming X
   * 1.5: Memory, DrMos 
   * 2.0: Inductors 
