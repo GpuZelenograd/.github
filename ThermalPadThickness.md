@@ -342,6 +342,11 @@
   * 3.0:back memory, back GPU
 * Gigabyte 5700 Turbo
   * 1.0:Memory, GPU DrMos, Memory DrMos
+* Asrock 5700 XT Phantom D (ram-to-gpu-plate -0.2)
+ * 1.0: DrMos line, Inductirs line
+ * 1.5: memory
+ * 2.0: 2x DrMos near memory
+ * 3.0: back memory, back GPU, back power
 * Vega Turbo
   * 0.8:Inductors
   * 1.0:GPU Mosfets
