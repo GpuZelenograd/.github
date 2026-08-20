@@ -195,6 +195,11 @@
   * 1.0: mem front, long DrMos
   * 2.5: short DrMos
   * 3.0: back
+* MSI Duke 2070Super (ref PCB)
+  * 1.0: memory under extra plate
+  * 1.5: input capacitors, DrMos
+  * 2.0: 2x power ICs under extra  plate, gpu out capacitors under extra  plate, inductors,
+  * 3.0: back (without plastic
 * Gigabyte 2070/2080 Super (non-Ref PCB, varinat A)
   * 1.0: memory, inductor, mosfet
   * 2.0: power 12v caps, small P-mosfets (if soldered)
