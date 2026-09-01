@@ -567,6 +567,12 @@
   * 1.5: power front
   * 2.0(1.75): memory front
   * 4.0(3.5): memory back
+* Sapphire Nitro+ RX6800XT SE
+  * 1.25: Inductor 2x lines
+  * 1.5: Memory, DrMos 2x lines
+  * 2.5: 2x powers ICs to the left of GPU
+  * 3.0: Back DrMos 1x line
+  * 5.0: 3x powers ICs below left DrMos line
 * Asus TUF RX6800 (common plane)
   * 1.0: long inductors line
   * 1.5: mem, Drmos (2 lines)
