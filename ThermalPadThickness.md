@@ -418,11 +418,18 @@
   * 2.0: memory front
   * 2.5: Main DrMOs,2x isolated power ICs (U17, U18), memory power, memory back
   * 3.0: DrMos back, Inductor front
-* Inno3d 3080 X3
+* Inno3d 3080 X3 single plane GPU+MEM
   * 1.0: DrMos front, Inductor Front
   * 2.0: mem Front, mem back
   * 2.5: isolated power ICs near mem (2x)
   * 2.7(3): DrMos back
+* Inno3d 3080 X3 pipes on GPU + separate curved MEM plane
+  * 0.75: mem front
+  * 1.0: DrMos front
+  * 1.5: Inductor Front
+  * 2.0: mem back
+  * 2.5: isolated power ICs near mem (2x)
+  * 3.0: DrMos back
 * Inno3d ichill 3080
   * 1.0: DrMos front, mem front
   * 2.0: Inductor Front, 2x isolated DrMos Front
