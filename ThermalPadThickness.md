@@ -610,6 +610,13 @@
   * 1.5: inductors (2 lines)
   * 2.0: memory, drmos (2 lines)
   * 3.0: back
+* Asrock RX7900XT 20G Phantom
+  * 1.5: Inductors
+  * 2.0: DrMOS (2x lines)
+  * 2.25(2.5): Memory
+  * 2.5: 12V input inductors, 2x ICs left from GPU
+  * 3.0: back
+  * 6.0: EU300 IC (up-left from GPU) 
 * Quadro RTX 5000
   * 1.0: mem
   * 1.5: 3x long sequence of power element (DrMos, in caps, out caps)
