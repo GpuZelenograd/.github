@@ -617,6 +617,12 @@
   * 2.5: 12V input inductors, 2x ICs left from GPU
   * 3.0: back
   * 6.0: EU300 IC (up-left from GPU) 
+* XFX 7900XT Speedster/MERC310
+  * 0.75: Front Memory
+  * 1.0: 2xline Back Capacitors
+  * 1.5: 2xline Front Inductors
+  * 2.0: 2xline Front DrMos, Back Memory, 3xIC Back PWM Controller
+  * 2.5: Back GPU, 1xIC Front isolated DrMos
 * Quadro RTX 5000
   * 1.0: mem
   * 1.5: 3x long sequence of power element (DrMos, in caps, out caps)
