@@ -206,7 +206,7 @@
   * 2.5: back
 * Gigabyte 2080 Super (non-Ref PCB, varinat B)
   * 0.75: memory
-  * 1.5: DrMos, indutors, gpu out capacitors (factory 0.75 is wrong)
+  * 1.5: DrMos, indutors, gpu out capacitors if heatsink present (factory 0.75 is wrong)
   * 2.0: small current balance mosfets (if soldered)
   * 3.0:(2.7): back
 * Gigabyte 2070 Gaming (Ref PCB)
