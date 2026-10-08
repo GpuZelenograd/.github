@@ -141,7 +141,7 @@
   * 3.0: back
 * Asus dual 2070, 2080, Strix 2080
   * 1.5: front all: power, memory, capacitors
-  * 3.0: Back, Central P-Mosfets block (if present)
+  * 3.0: Back, Central current balance Mosfets block (if present)
 * Asus turbo (1070ti, 1080)
   * 1.5: power, memory
 * Asus turbo 3070
@@ -202,12 +202,12 @@
   * 3.0: back (without plastic
 * Gigabyte 2070/2080 Super (non-Ref PCB, varinat A)
   * 1.0: memory, inductor, mosfet
-  * 2.0: power 12v caps, small P-mosfets (if soldered)
+  * 2.0: power 12v caps, small current balance mosfets (if soldered)
   * 2.5: back
 * Gigabyte 2080 Super (non-Ref PCB, varinat B)
   * 0.75: memory
   * 1.5: DrMos, indutors, gpu out capacitors (factory 0.75 is wrong)
-  * 2.0: small P-mosfets (if soldered)
+  * 2.0: small current balance mosfets (if soldered)
   * 3.0:(2.7): back
 * Gigabyte 2070 Gaming (Ref PCB)
   * 0.8: memory, input capacitors & inductors line
