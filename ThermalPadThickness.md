@@ -638,8 +638,8 @@
   * 1.25: Cooler parts interconnect
   * 2.0: all front: mem, 3x DrMos lines, 2x SPI FLash
   * 2.5: back DrMos, back memory
-* Asus ROG Strix 4090 (short PCB)
+* Asus ROG Strix 4080/4090 (short PCB)
   * 1.0: back capacitors 2xline
   * 1.25: memory
-  * 2.0: front Drmos: 4x isolated, 2x lines
+  * 2.0: front Drmos: 4x isolated, 2x lines (PU3 isolated IC for 4080 instead of isolated DrMos)
   * 3.0: back 1x line
