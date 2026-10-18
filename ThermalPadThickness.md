@@ -378,8 +378,7 @@
 * EVGA 3080 XC3 (common GPU+VRAM plane):
   * 1.0: inductors
   * 2.0: front memory
-  * 2.5: front DrMos 2x lines
-  * 3.0: back DrMos 2x lines
+  * 3.0: front DrMos 2x lines, back DrMos 2x lines
 * TUF 3090
   * 1.0:back 2x power out capacitors
   * 1.5:DrMos left
