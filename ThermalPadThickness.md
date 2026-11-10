@@ -601,6 +601,9 @@
   * 1.5: Memory, DrMos 
   * 2.0: Inductors 
   * 3.0: back 
+* Yeston RX 6700 XT Sakura Hitomi Edition
+  * 1.0: Memory, DrMos 2x lines
+  * 2.5: Back  
 * Radeon Pro WX5100
   * 1.0: mem, mosfet
 * Sapphire Pulse RX7600
