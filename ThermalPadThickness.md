@@ -282,6 +282,10 @@
   * 1.5: memory
 * Galax 1080 HoF
   * 0.8(1): DrMOS, power mosfets, memory
+* Galax 2060S 3fan Bulk 影驰 大将
+  * 1.5: DrMos, mosfet
+  * 2.0: Memory
+  * 3.0: Back
 * Colorful 1660S/2060S 2fan (vram is 1mm padded from GPU):
   * 1.0: mosfet (own radiator), memory
   * 2.0: main inductrs (support)
