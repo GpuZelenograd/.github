@@ -571,6 +571,10 @@
   * 3.0 memory top, memory down, plastic back
 * MSI 4070 Ventus 2X
   * 2.0 memory, main DrMos
+* Asus 4070 Dual
+  * 0.5: back capacitors
+  * 2.0: memory, inductors
+  * 2.5: front DrMos, back memory, back DrMos
 * Asus strix 5500XT
   * 0.8(1.0): power front
   * 1.0(?): memory front
