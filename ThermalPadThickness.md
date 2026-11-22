@@ -602,7 +602,8 @@
   * 2.0: inductors
   * 3.0: back
 * Asrock RX6700XT Challenger
-  * 1.5: mem, Drmos (2 lines)
+  * 1.5: mem
+  * 2.0: Drmos (2 lines)
   * 2.5: Back GPU
 * XFX 6700XT QICK/MERC319
   * 1.5: Memory, DrMos, Inductors
