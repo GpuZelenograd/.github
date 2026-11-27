@@ -360,6 +360,8 @@
   * 0.8:Inductors
   * 1.0:GPU Mosfets
   * 1.5:Memory Mosfet
+* Palit Jetstream 3070
+  * 1.0:front memory, GPU inductors (3x groups), MEM inductors, mem mosfets, GPU DrMos, isolated DrMos, isolated DrMos+PEX group, isolated 1.8Power
 * Palit Gaming Pro 3070, 3060ti
   * 1.0:front memory, 2groups GPU inductors, 1group MEM inductors, 2mem mosfets, GPU DrMos group, isolated DrMos, isolated DrMos+PEX group, isolated 1.8Power
 * Palit Gaming Pro OC 3080
